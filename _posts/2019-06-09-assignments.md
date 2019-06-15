@@ -50,16 +50,11 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 ### Assignment Breakdown
 
 | A 100–93 | B+ 89–87 | C+ 79–77 | D+ 69–67 | E 59–0 |
-|----------|----------|----------|----------|--------|
-| A- 92–90 | B  86–83 | C  76–73 | D  66–63 |        |
-|          | B- 82–80 | C- 72–70 | D- 62–60 |        |
-
-| A 100–93 | B+ 89–87 | C+ 79–77 | D+ 69–67 | E 59–0 |
 | A- 92–90 | B  86–83 | C  76–73 | D  66–63 |        |
 |          | B- 82–80 | C- 72–70 | D- 62–60 |        |
 
 | Assignment | Points |
-|----------|----------:|
+|----------|----------|
 | Student-teacher contract | 10 points |
 | In-class participation | 150 points |
 | Annotated bibliography | 50 points |
