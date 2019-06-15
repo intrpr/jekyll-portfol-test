@@ -1,8 +1,9 @@
 ---
-name: Project A
+name: ASL3370
+Sign-to-Voice Interpreting
 tools: [C#, XML, WPF]
-image: https://thenextscoop.com/wp-content/uploads/2019/01/web-design-2019.jpg
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+image: https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
+description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
 ---
 
 # Project A
