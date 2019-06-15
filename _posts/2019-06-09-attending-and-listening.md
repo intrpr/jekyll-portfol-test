@@ -17,12 +17,12 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 Readings/Discussions
 
 ## [Interpreting Culturally Rich Realities: Research Implications for Successful Interpretations (Cokely)](http://)
-<span class="badge badge-pill badge-danger">Required</span> This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. Journal of Interpretation, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening. 
+This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. Journal of Interpretation, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening.  <span class="badge badge-pill badge-danger">Required</span>
 
 ***
 
 ## [Interpreters, Conversational Style, and Gender at Work](http://) (Morgan)
-<span class="badge badge-pill badge-danger">Required</span> This is chapter 5 in Hauser (2008) Deaf Professionals and Designated Interpreters by my colleague Elizabeth Morgan. This reading addresses the concept of power language and the role of gender in creating power/less language.
+This is chapter 5 in Hauser (2008) Deaf Professionals and Designated Interpreters by my colleague Elizabeth Morgan. This reading addresses the concept of power language and the role of gender in creating power/less language. <span class="badge badge-pill badge-danger">Required</span>
 
 ***
 
