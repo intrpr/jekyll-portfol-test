@@ -48,6 +48,7 @@ Please adhere to all due dates on your class schedule. Exams are given only on t
 Work schedules, out-of-town trips, or dating habits are not valid excuses for missing exams. If you must miss an assignment, please see me before the exam day to discuss your conflict. Final exams cannot be given early or on any other date than what is proscribed by the College. Please don’t ask.
 
 ### Assignment Breakdown
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
