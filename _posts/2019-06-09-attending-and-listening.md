@@ -7,8 +7,6 @@ color:
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
 ---
 
-{% include not-teaching.html %}
-
 Developing semantic understanding between spoken English and signed languages
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
