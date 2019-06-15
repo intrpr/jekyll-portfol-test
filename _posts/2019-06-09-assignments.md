@@ -54,11 +54,9 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 | A- 92–90 | B  86–83 | C  76–73 | D  66–63 |        |
 |          | B- 82–80 | C- 72–70 | D- 62–60 |        |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| A 100–93 | B+ 89–87 | C+ 79–77 | D+ 69–67 | E 59–0 |
+| A- 92–90 | B  86–83 | C  76–73 | D  66–63 |        |
+|          | B- 82–80 | C- 72–70 | D- 62–60 |        |
 
 Student-teacher contract	10 points
 In-class participation	150 points
