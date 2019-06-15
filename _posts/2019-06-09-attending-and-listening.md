@@ -9,6 +9,8 @@ description: This course is an introduction to the skills and processes required
 
 {% include class-nav.html %}
 
+{% include not-teaching.html %}
+
 <p class="lead">Developing semantic understanding between spoken English and signed languages</p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
