@@ -36,7 +36,8 @@
     h1, h2 { margin-top: 32px; }
 
     p, li { font-size: 1rem; line-height: 1.6em; color: $dark; }
-
+    strong { font-weight: bold; }
+    
     .badge {
         font-size: 92%;
         line-height: .9; }
