@@ -117,9 +117,9 @@
      
     blockquote {
         border: 1px solid $warning;
-        background-color: $warning; opacity: .5;
+        background-color: rgba($warning,.2)
         color: $secondary;
-        padding: 1em;
+        padding: 1em 1.2em;
     }
 
     table {
