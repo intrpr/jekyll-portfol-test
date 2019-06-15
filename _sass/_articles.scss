@@ -114,7 +114,14 @@
         color: $secondary;
         padding: 0 1em;
     }
-      
+     
+    blockquote {
+        border: 1px solid $warning;
+        background-color: $warning; opacity: .5;
+        color: $secondary;
+        padding: 1em;
+    }
+
     table {
         display: block;
         overflow-x: auto;
