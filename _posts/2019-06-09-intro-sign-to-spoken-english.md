@@ -1,5 +1,5 @@
 ---
-title: Attending and listening
+title: About This Course
 course: (ASL3370) Sign to Spoken English
 tags: [ASL3370, ASL, English, listening]
 style: 
@@ -9,8 +9,7 @@ description: This course is an introduction to the skills and processes required
 
 {% include not-teaching.html %}
 
-## About This Course
-This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and non-deaf people. Upon successful completion of this course, students should be able to:
+<p class="lead">This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and non-deaf people. Upon successful completion of this course, students should be able to:</p>
 
 * identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
 * demonstrate and self-monitor basic abilities required to create sign-to-spoken language interpretations of rehearsed and/or spontaneous texts:
