@@ -9,7 +9,7 @@ description: This course is an introduction to the skills and processes required
 
 {% include notteaching.html %}
 
-Required Please remember to submit a final PDF file (not .doc, .odt, .pages, etc.) of your bibliography to Canvas. You are responsible for any delays or missed points that result by not submitting a proper file.
+<div class="alert alert-primary" role="alert">Required Please remember to submit a final PDF file (not .doc, .odt, .pages, etc.) of your bibliography to Canvas. You are responsible for any delays or missed points that result by not submitting a proper file.</div>
 
 ### Learning & Assignment Goals
 Among other self-reflective assessments you’ll make this semester, based on expected learning outcomes, there are three main tactical categories of assignments:
