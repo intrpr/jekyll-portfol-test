@@ -47,6 +47,9 @@
         padding: .4em .7em;
         margin: 0 0 0 .25em;
     }
+    .nav-pills .nav-link {
+        border-radius: 20rem;
+    }
 
     hr { background: $secondary; }
 
