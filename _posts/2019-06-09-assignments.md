@@ -1,7 +1,7 @@
 ---
 title: Course Assignments (ASL3370)
-course: ASL3370 Sign to Spoken English
-tags: [ASL3370, Assignments]
+course: ASL3370: Sign to Spoken English
+tags: [ASL3370, ASL, English, Assignments]
 style: 
 color: 
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
