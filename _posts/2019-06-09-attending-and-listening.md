@@ -1,13 +1,15 @@
 ---
-date: 2019-06-08
 title: Attending and listening
-categories:
-  - Sign-to-Spoken-English
-description: "Sign-to-Spoken-English Interpreting"
-type: Document
+course: (ASL3370) Sign to Spoken English
+tags: [ASL3370, ASL, English, listening]
+style: 
+color: 
+description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
 ---
 
-##### Developing semantic understanding between spoken English and signed languages
+{% include not-teaching.html %}
+
+Developing semantic understanding between spoken English and signed languages
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
 * outcome
