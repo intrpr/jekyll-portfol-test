@@ -7,7 +7,7 @@ color:
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
 ---
 
-{{search.html}}
+{% include navbar.html %}
 
 > I am not currently teaching Sign to Spoken English Interpreting (ASL3370) this semester. Please note: All information currently available on this site represents work and due dates relevant to a previous semester/course. Please check back during later semesters for updated information on this course. Thank you.
 
