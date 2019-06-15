@@ -58,17 +58,20 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 | A- 92–90 | B  86–83 | C  76–73 | D  66–63 |        |
 |          | B- 82–80 | C- 72–70 | D- 62–60 |        |
 
-Student-teacher contract	10 points
-In-class participation	150 points
-Annotated bibliography	50 points
-Video portfolio postings	50 points
-(5 posts; 10 points each)
-In-class presentation	10 points
-Midterm evaluation	10 points
-Community experience	50 points
-Performance assessments	(2 assessments, 100 points each)
-Total**	540 points
-** This may or may not be the final total; scores from impromptu exercises and extra credit assignments will proportionally be figured into your final grade.
+| Assignment | Points |
+|----------|----------:|
+| Student-teacher contract | 10 points |
+| In-class participation | 150 points |
+| Annotated bibliography | 50 points |
+| Video portfolio postings | 50 points
+(5 posts; 10 points each) |
+| In-class presentation | 10 points |
+| Midterm evaluation | 10 points |
+| Community experience | 50 points |
+| Performance assessments | (2 assessments, 100 points each) |
+| Total* | 540 points |
+
+<small>* This may or may not be the final total; scores from impromptu exercises and extra credit assignments will proportionally be figured into your final grade.</small>
 
 ### Community Experience Project(s)
 You want me to do what? For these assignments, you should seek out Deaf Community- or interpreter-related activities. Your best resource is the main gathering place for most of the Deaf and interpreting community in Weber, Salt Lake, and Utah Counties, the [Sanderson Community Center of the Deaf](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5709+South+1500+West,+Salt+Lake+City,+UT&sll=40.647788,-111.933888&sspn=0.355826,0.529404&ie=UTF8&hq=&hnear=5709+S+1500+W,+Salt+Lake+City,+Salt+Lake,+Utah+84123&ll=40.64758,-111.933882&spn=0.01112,0.016544&z=16) in Taylorsville. There are activities constantly taking place here, ranging from athletics to political meetings to [interpreting workshops](http://). [Check the Center](https://jobs.utah.gov/usor/dhh) for:
