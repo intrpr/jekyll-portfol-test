@@ -116,10 +116,10 @@
     }
      
     blockquote {
-        border: 1px solid $warning;
+        border: 1px solid rgba($warning,.7);
         background-color: rgba($warning,.2);
         color: $dark;
-        padding: 1em 1.2em;
+        padding: 1em 1.5em;
     }
 
     table {
