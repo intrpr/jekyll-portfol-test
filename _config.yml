@@ -29,14 +29,14 @@ author:
 collections:
   projects:
     output: true
-    permalink: /courses/:name
+    permalink: /projects/:name
 
 
 # Default values for collections
 defaults:
   - scope:
       path: ""
-      type: "courses"
+      type: "projects"
     values:
       layout: "page"
 

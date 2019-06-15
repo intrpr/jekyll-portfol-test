@@ -2,25 +2,25 @@
 <!-- cards layout -->
 <div class="card-columns m-3 mt-5">
 
-	{% for courses in site.coursess %}
+	{% for project in site.projects %}
 
-	{% comment %} Determine courses URL {% endcomment %}
-	{% if courses.external_url %}
-		{% assign courses_url = courses.external_url %}
+	{% comment %} Determine Project URL {% endcomment %}
+	{% if project.external_url %}
+		{% assign project_url = project.external_url %}
 	{% else %}
-		{% assign courses_url = courses.url | relative_url %}
+		{% assign project_url = project.url | relative_url %}
 	{% endif %}
 
 	<div class="wow animated fadeIn" data-wow-delay=".15s">
-		<a href="{{ courses_url }}" class="courses card text-dark">
-			{% if courses.image %}
-				<img class="card-img-top" src="{{ courses.image }}" alt="Card image cap">
+		<a href="{{ project_url }}" class="project card text-dark">
+			{% if project.image %}
+				<img class="card-img-top" src="{{ project.image }}" alt="Card image cap">
 			{% endif %}
 			<div class="card-body">
-				<h5 class="card-title">{{ courses.name }}</h5>
-				<p class="card-text">{{ courses.description }}</p>
+				<h5 class="card-title">{{ project.name }}</h5>
+				<p class="card-text">{{ project.description }}</p>
 				<p class="card-text">
-					{% for tool in courses.tools %}
+					{% for tool in project.tools %}
 						<span class="badge badge-pill text-primary border border-primary">{{tool}}</span>
 					{% endfor %}
 				</p>
