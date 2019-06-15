@@ -115,12 +115,12 @@
         padding: 0 1em;
     }
      
-    blockquote {
+    .not-teaching {
         border: 1px solid rgba($warning,.5);
         background-color: rgba($warning,.2);
         color: $dark;
         padding: 1em 1.5em;
-        margin: 1em 0; 
+        margin: 0 0 2em 0; 
     }
     blockquote p { margin: 0;}
 
