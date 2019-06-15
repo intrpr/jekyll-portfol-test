@@ -1,41 +1,42 @@
+
+<h1>Course materials and research for sign language interpreters and students.</h1>
+<div class="input-group mt-5 px-3">
+	<input id="search-input" type="text" class="form-control search-box" placeholder="Search articles..">
+	<div class="input-group-append">
+		<span class="input-group-text border border-primary bg-primary text-white"><i class="fas fa-search"></i></span>
+	</div>
+</div>
+<ul class="px-3" id="results-container"></ul>
+
+<!-- cards layout -->
 <div class="card-columns m-3 mt-5">
 
-	<h1>Course materials and research for sign language interpreters and students.</h1>
-	<div class="input-group mt-5 px-3">
-		<input id="search-input" type="text" class="form-control search-box" placeholder="Search articles..">
-		<div class="input-group-append">
-			<span class="input-group-text border border-primary bg-primary text-white"><i class="fas fa-search"></i></span>
-		</div>
-	</div>
-	<ul class="px-3" id="results-container"></ul>
-	
 	{% for project in site.projects %}
 
-		{% comment %} Determine Project URL {% endcomment %}
-		{% if project.external_url %}
-			{% assign project_url = project.external_url %}
-		{% else %}
-			{% assign project_url = project.url | relative_url %}
-		{% endif %}
+	{% comment %} Determine Project URL {% endcomment %}
+	{% if project.external_url %}
+		{% assign project_url = project.external_url %}
+	{% else %}
+		{% assign project_url = project.url | relative_url %}
+	{% endif %}
 
-		<!-- cards layout -->
-		<div class="wow animated fadeIn" data-wow-delay=".15s">
-			<a href="{{ project_url }}" class="project card text-dark">
-				{% if project.image %}
-					<img class="card-img-top" src="{{ project.image }}" alt="Card image cap">
-				{% endif %}
-				<div class="card-body">
-					<h5 class="card-title">{{ project.name }}</h5>
-					<p class="card-text">{{ project.description }}</p>
-					<p class="card-text">
-						{% for tool in project.tools %}
-							<span class="badge badge-pill text-primary border border-primary">{{tool}}</span>
-						{% endfor %}
-					</p>
-				</div>
-			</a>
-		</div>
-		
+	<div class="wow animated fadeIn" data-wow-delay=".15s">
+		<a href="{{ project_url }}" class="project card text-dark">
+			{% if project.image %}
+				<img class="card-img-top" src="{{ project.image }}" alt="Card image cap">
+			{% endif %}
+			<div class="card-body">
+				<h5 class="card-title">{{ project.name }}</h5>
+				<p class="card-text">{{ project.description }}</p>
+				<p class="card-text">
+					{% for tool in project.tools %}
+						<span class="badge badge-pill text-primary border border-primary">{{tool}}</span>
+					{% endfor %}
+				</p>
+			</div>
+		</a>
+	</div>
+	
 	{% endfor %}
 
 </div>
