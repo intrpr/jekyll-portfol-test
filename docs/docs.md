@@ -5,7 +5,8 @@ permalink: /docs/
 weight: 5
 ---
 
-# **About portfolYOU** <small class="text-muted">{{ site.github.latest_release.tag_name }}</small>
+# About portfolYOU 
+<small class="text-muted">{{ site.github.latest_release.tag_name }}</small>
 
 <p>
   <a class="github-button" href="{{ site.github.repository_url }}" data-icon="octicon-star" data-show-count="true" aria-label="Star YoussefRaafatNasry/portfolYOU on GitHub">Star</a>
