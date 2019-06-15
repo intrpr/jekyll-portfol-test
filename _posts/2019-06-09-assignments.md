@@ -1,5 +1,5 @@
 ---
-title: ASL3370 Course Assignments (ASL3370)
+title: Course Assignments (ASL3370)
 tags: [ASL3370, Assignments]
 style: 
 color: 
