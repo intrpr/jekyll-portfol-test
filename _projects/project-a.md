@@ -1,6 +1,5 @@
 ---
-name: ASL3370
-Sign-to-Voice Interpreting
+name: ASL3370 Sign-to-Voice Interpreting
 tools: [C#, XML, WPF]
 image: https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
