@@ -1,5 +1,14 @@
 <div class="card-columns m-3 mt-5">
 
+	<h1>Course materials and research for sign language interpreters and students.</h1>
+	<div class="input-group mt-5 px-3">
+		<input id="search-input" type="text" class="form-control search-box" placeholder="Search articles..">
+		<div class="input-group-append">
+			<span class="input-group-text border border-primary bg-primary text-white"><i class="fas fa-search"></i></span>
+		</div>
+	</div>
+	<ul class="px-3" id="results-container"></ul>
+	
 	{% for project in site.projects %}
 
 		{% comment %} Determine Project URL {% endcomment %}
@@ -8,15 +17,6 @@
 		{% else %}
 			{% assign project_url = project.url | relative_url %}
 		{% endif %}
-
-		<h1>Course materials and research for sign language interpreters and students.</h1>
-		<div class="input-group mt-5 px-3">
-			<input id="search-input" type="text" class="form-control search-box" placeholder="Search articles..">
-			<div class="input-group-append">
-				<span class="input-group-text border border-primary bg-primary text-white"><i class="fas fa-search"></i></span>
-			</div>
-		</div>
-		<ul class="px-3" id="results-container"></ul>
 
 		<!-- cards layout -->
 		<div class="wow animated fadeIn" data-wow-delay=".15s">
