@@ -1,4 +1,5 @@
 ---
+date: 2019-06-08
 title: Course Assignments (ASL3370)
 course: ASL3370: Sign to Spoken English
 tags: [ASL3370, ASL, English, Assignments]
