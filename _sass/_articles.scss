@@ -38,7 +38,7 @@
     p, li { font-size: 1.02rem; line-height: 1.65em; color: $dark; }
     strong { font-weight: bolder; }
 
-    .lead { font-size: 1.25rem; line-height: 1.4em; }
+    .lead { font-size: 1.25rem; line-height: 1.45em; }
 
     .badge {
         font-size: 92%;
@@ -51,7 +51,7 @@
         border-radius: 20rem;
     }
 
-    hr { background: $secondary; }
+    hr { border: 1px solid rgba($separator, .15); margin; 1em 0;  }
 
     img {
         display: block;
