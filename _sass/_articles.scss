@@ -51,7 +51,7 @@
         border-radius: 20rem;
     }
 
-    hr { border: 1px solid rgba($separator, .15); margin: 1em 0;  }
+    hr { border: 1px solid $separator; margin: 1em 0; }
 
     img {
         display: block;
