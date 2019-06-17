@@ -33,7 +33,10 @@
     }
 
     
-    h1, h2 { margin-top: 32px; }
+    h1 { font-size: 2.5em; margin: 2em 0 0 0 0; }
+
+    h2 { font-size: 2em; margin: 2em 0 0 0 0; }
+
 
     p, li { font-size: 1.02rem; line-height: 1.65em; color: $dark; }
     strong { font-weight: bolder; }
@@ -51,7 +54,7 @@
         border-radius: 20rem;
     }
 
-    hr { border: 1px solid $separator; margin: 1em 0; }
+    hr { border: 1px solid $separator; border-width: 1px 0 0 0; margin: 1em 0; }
 
     img {
         display: block;
