@@ -6,6 +6,8 @@ description: This course is an introduction to the skills and processes required
 weight: 1
 ---
 
+Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
+
 ![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
 
 # About this Course
