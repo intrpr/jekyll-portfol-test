@@ -6,7 +6,7 @@ description: This course is an introduction to the skills and processes required
 weight: 1
 ---
 
-Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
+### Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
 
 ***
 
