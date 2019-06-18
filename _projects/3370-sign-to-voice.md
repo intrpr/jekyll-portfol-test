@@ -8,7 +8,11 @@ weight: 1
 
 Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
 
+{% include not-teaching.html %}
+
 ![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
+
+###### https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
 
 # About this Course
 
