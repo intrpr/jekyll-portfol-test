@@ -1,5 +1,5 @@
 ---
-name: <small>ASL3370</small> Sign-to-Spoken English Interpreting
+name: <small>ASL3370</small><br> Sign-to-Spoken English Interpreting
 tools: [3370, Sign-to-Spoken English, ASL, English, Interpreting]
 image: https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
