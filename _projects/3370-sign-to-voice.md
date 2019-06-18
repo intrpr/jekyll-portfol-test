@@ -6,15 +6,28 @@ description: This course is an introduction to the skills and processes required
 weight: 1
 ---
 
-# Project A
+# About this Course
 
-Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
+<p class="lead">This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:</p>
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screen-shot-2018-05-01-at-11-30-23-am.png?w=1390&crop=1)
+1. identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
+2. demonstrate and self-monitor basic abilities required to create sign-to-spoken language interpretations of rehearsed and/or spontaneous texts:
+	* understand how principles of the Demand-Control Schema (DC-S) can undergird ethical and best-practice interpreting decisions
+	* increase competent usage of spoken English as source (sL) and target language (tL)
+	* describe and apply the cognitive tasks of pegging, chunking, linking, and monitoring to understand a discourse
+	* understand how dual-tasking and cognitive load theory impacts spoken language interpretation
+	* incorporate practical applications of non-judgemental language (Colonomos, Witter-Merrithew, et al.) in personal and colleague work product
+	* recognize and produce equivalent spoken interpretations given variations in features and parts of message (register, tone, affect, voice, power/less language (Morgan, in Hauser 2008)
+	* understand and develop practical skills for working in a team dynamic
+	* recognize and properly address language difference in various genres (comedy, dramatic, age-appropriate, academic, legal, medical, literary/poetic, religious, entertainment, etc.)
+3. identify impacts on and incorporation of semantic choice, register, and ethical behavioral decisions in consecutive interpretations
+4. Demonstrate and apply best practice principles in team interpreting work (feeding, assisting, providing feedback, handling logistics)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A significant portion of this course requires self-directed efforts (asychronously working with other teammates) and fairly good command of web-based technologies and learning environments (video creation, salient discussion, and reporting skills; we’ll discuss this more in class).
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
+This course requires a one-hour per week lab criteria; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
+
+![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
 
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
