@@ -12,7 +12,7 @@ Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
 
 ![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
 
-##### https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
+<h6>https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg</h6>
 
 {% include not-teaching.html %}
 
