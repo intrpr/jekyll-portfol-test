@@ -8,6 +8,10 @@
     padding: 15px;
     height: 100%;
     
+    .card-body {
+        flex: 1 1 auto;
+        padding: 1.5em;
+
     .card-footer {
         font-size: 14px;
         margin: 0 -15px -15px -15px;
