@@ -35,7 +35,7 @@ Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
 
 A significant portion of this course requires self-directed efforts (asychronously working with other teammates) and fairly good command of web-based technologies and learning environments (video creation, salient discussion, and reporting skills; we’ll discuss this more in class).
 
-This course requires a one-hour per week lab criteria; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
+**This course requires a one-hour per week lab criteria**; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
 
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
