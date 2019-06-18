@@ -9,6 +9,18 @@ description: You'll have one or two writing assignments this semester. You shoul
 
 {% include not-teaching.html %}
 
+# h1 Header1
+## h2 Header2
+### h3 Header3
+#### h4 Header4
+##### h5 Header5
+###### h6 Header6
+p Paragraph
+* li list item
+* [ ] todo list item
+> Quote
+`` Code
+
 ## Expectations and Requirements
 The [RID Code of Professional Conduct](http://) encourages interpreters to engage in professional development, including familiarity and reading of current literature in the field. Interpreters must not only understand the communication needs of Deaf people but also the core issues that face the field today. Annotated bibliographies provide you with opportunities to research and compile lists of academic texts for your own continued study.
 
