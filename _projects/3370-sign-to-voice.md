@@ -6,6 +6,8 @@ description: This course is an introduction to the skills and processes required
 weight: 1
 ---
 
+![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
+
 # About this Course
 
 <p class="lead">This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:</p>
@@ -26,8 +28,6 @@ weight: 1
 A significant portion of this course requires self-directed efforts (asychronously working with other teammates) and fairly good command of web-based technologies and learning environments (video creation, salient discussion, and reporting skills; we’ll discuss this more in class).
 
 This course requires a one-hour per week lab criteria; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
-
-![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
 
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
