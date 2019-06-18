@@ -86,12 +86,12 @@
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]) {
         display: inline-block;
-        /*text-decoration: none;*/
+        text-decoration: none;
         text-decoration: underline;
 
         &:hover { color: $primary; }
 
-        /*&::after {
+        &::after {
             content: '';
             display: block;
             height: 1px;
@@ -101,7 +101,7 @@
             transition: width .35s;
         }
 
-        &:hover::after { width: 100%; }*/
+        &:hover::after { width: 100%; }
     }
 
     pre {
