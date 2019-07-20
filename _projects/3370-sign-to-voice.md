@@ -6,7 +6,7 @@ description: This course is an introduction to the skills and processes required
 weight: 1
 ---
 
-### Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
+# Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
 
 ***
 
@@ -22,8 +22,8 @@ weight: 1
 
 <p class="lead">This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:</p>
 
-1. identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
-2. demonstrate and self-monitor basic abilities required to create sign-to-spoken language interpretations of rehearsed and/or spontaneous texts:
+* identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
+* demonstrate and self-monitor basic abilities required to create sign-to-spoken language interpretations of rehearsed and/or spontaneous texts:
 	* understand how principles of the Demand-Control Schema (DC-S) can undergird ethical and best-practice interpreting decisions
 	* increase competent usage of spoken English as source (sL) and target language (tL)
 	* describe and apply the cognitive tasks of pegging, chunking, linking, and monitoring to understand a discourse
@@ -32,8 +32,8 @@ weight: 1
 	* recognize and produce equivalent spoken interpretations given variations in features and parts of message (register, tone, affect, voice, power/less language (Morgan, in Hauser 2008)
 	* understand and develop practical skills for working in a team dynamic
 	* recognize and properly address language difference in various genres (comedy, dramatic, age-appropriate, academic, legal, medical, literary/poetic, religious, entertainment, etc.)
-3. identify impacts on and incorporation of semantic choice, register, and ethical behavioral decisions in consecutive interpretations
-4. Demonstrate and apply best practice principles in team interpreting work (feeding, assisting, providing feedback, handling logistics)
+* identify impacts on and incorporation of semantic choice, register, and ethical behavioral decisions in consecutive interpretations
+* Demonstrate and apply best practice principles in team interpreting work (feeding, assisting, providing feedback, handling logistics)
 
 A significant portion of this course requires self-directed efforts (asychronously working with other teammates) and fairly good command of web-based technologies and learning environments (video creation, salient discussion, and reporting skills; we’ll discuss this more in class).
 

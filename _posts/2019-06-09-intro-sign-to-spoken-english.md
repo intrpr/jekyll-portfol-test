@@ -43,4 +43,4 @@ A significant portion of this course requires self-directed efforts (asychronous
 
 “...I learned a lot about processing and dual-tasking. It was helpful when [we] discussed the process that takes place in our brain while interpreting.”
 
-Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).
+###### Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).
