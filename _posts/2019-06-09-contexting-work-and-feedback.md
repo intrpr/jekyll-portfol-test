@@ -7,8 +7,6 @@ color:
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
 ---
 
-{% include not-teaching.html %}
-
 ## Learning to talk about our work as a function of ‘work,’ not of ‘me’
 
 <p class="lead">One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Discussing interpretation work is a scientific process, concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on an interpretation’s ‘goodness’ or ‘badness.’ However, talking about ‘equivalence’ in transliterative decisions is different and requires more subjectivity; there is less room for creativity and interpretation in a transliterated event.</p>
