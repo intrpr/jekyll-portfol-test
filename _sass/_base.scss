@@ -1,5 +1,5 @@
 body {
-    font-family: /*'Muli',*/ 'Open Sans', sans-serif;
+    font-family: 'Open Sans', 'Muli', sans-serif;
     font-size: calc( 12px + (26 - 14) * ((100vw - 500px) / 1500));
     font-size: 18px;
     letter-spacing: .01em;
@@ -8,6 +8,10 @@ body {
 .badge {
     font-weight: 500;
 }
+
+.article .badge-pill {
+    padding: .4em .7em;
+    margin: 0;
 
 // Fine Circle Responsive Image
 // Inspired by https://stackoverflow.com/a/6615994/10194811

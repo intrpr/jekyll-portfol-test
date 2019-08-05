@@ -19,7 +19,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 <p class="h6">Readings/Discussions</p>
 
 ### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://)
-<span class="badge badge-pill badge-danger">Required</span> This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. 
+This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. <span class="badge badge-pill badge-danger">Required</span>
 
 [Text/HTML version](http://) of “Feedback: A Conversation about ‘The Work’...”
 
@@ -31,14 +31,14 @@ Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback l
 ***
 
 ### [“How to give (and not give) feedback”](http://)
-<span class="badge badge-pill badge-danger">Required</span> Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.)
+Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="badge badge-pill badge-danger">Required</span>
 
 [PDF version](http://) of ”How to Give (And Not Give) Feedback”
 
 ***
 
 ### [How to Turn Disagreement Into a Team Strength](https://blog.doist.com/how-to-turn-disagreement-into-a-team-strength-7bb25fec25f)
-<span class="badge badge-pill badge-danger">Highly Recommended</span> Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce.
+Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce. <span class="badge badge-pill badge-success">Highly Recommended</span>
 
 ***
 
@@ -52,7 +52,7 @@ Definition and explanation of Dean & Pollard’s Demand Control Schema. <span cl
 Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession. <span class="badge badge-pill badge-danger">Required</span>
 
 ### [Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training (2001)](http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf)
-<span class="badge badge-pill badge-danger">Recommended</span> This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.
+This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.<span class="badge badge-pill badge-success">Recommended</span>
 
 ### [Apprenticeship in SL Interpreting](http://www.streetleverage.com/2012/08/new-lamps-for-old-apprenticeship-in-sign-language-interpreting)
 Long needed yet sorely misunderstood, apprenticeships and supervision are the next frontier in the elevation of the field. Do you agree with Peterson and/or commenters here?
