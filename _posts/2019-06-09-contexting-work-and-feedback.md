@@ -1,6 +1,6 @@
 ---
 title: Contexting interpretive ‘work’ and depersonalizing feedback
-course: (ASL3370) Sign to Spoken English
+course:
 tags: [ASL3370, ASL, English, listening]
 style: 
 color: 
