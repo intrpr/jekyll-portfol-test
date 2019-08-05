@@ -54,7 +54,7 @@ Choose an interpreting-related principle or concept that either interests you (r
 
 ## Specifications
 
-{% include submit-pdf.html %}
+{% include note-submit-pdf.html %}
 
 Tip Make life easy; start with one of these templates:
 * [Google Doc template](http://)
