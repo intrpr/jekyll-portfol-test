@@ -42,6 +42,8 @@ Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback l
 ### [How to Turn Disagreement Into a Team Strength](https://blog.doist.com/how-to-turn-disagreement-into-a-team-strength-7bb25fec25f)
 <span class="badge badge-pill badge-danger">Highly Recommended</span> Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce.
 
+***
+
 #### The Demand Control Schema for Interpreting Work (DC-S)
 While we won’t be directly referencing DC-S in this discussion about evaluation language, clearly any discussion about evaluation of our work is informed and benefitted by understanding how decision-making processes impacts our interpreting choices.
 
