@@ -21,7 +21,7 @@ Arguably, the most important technical task new interpreters can practice is the
 ## Critical reading and thinking
 An imperative skillset to be developing at this point in your career is becoming familiar with relevant literature, learning how to observe the interpreting environment, and then articulating those observations. You’ll have assignments that provide formative opportunities for these skills.
 
-{% include submit-pdf.html %}
+{% include note-submit-pdf.html %}
 
 1. Unit readings and discussion. There may be additional readings associated with each unit. This list may or may not change as we go through the semester; new and relevant articles are always being published. Readings which are vital to the discussions we have are marked in red. [See the class schedule](http://).
 2. Annotated bibliography. In order to keep current on issues facing the interpreting field, you’ll be required to compile an annotated bibliography. Turning in a bibliography indicates that you have actually performed research. If you haven’t done this, don’t turn in a bibliography. Faked work is easily identified, and will result in a failing grade on the assignment. Late bibliographies will be penalized at 10% per day (not class period). See [class schedule for due dates](http://) and the [Writing page](http://) (or a [sample biblography](http://) for requirements and specifications).
