@@ -18,7 +18,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * What rubric(s) should inform our evaluations of transliterated work product?
 * Based on what we read in Witter-Merrithew and Colonomos, how can we measure equivalency and accuracy in our transliterations?
 
-<p class="h5">Readings/Discussions</p>
+<p class="h6">Readings/Discussions</p>
 
 ### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://)
 <span class="badge badge-pill badge-danger">Required</span> This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. 
