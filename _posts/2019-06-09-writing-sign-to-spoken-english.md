@@ -9,18 +9,6 @@ description: You'll have one or two writing assignments this semester. You shoul
 
 {% include not-teaching.html %}
 
-# h1 Header1
-## h2 Header2
-### h3 Header3
-#### h4 Header4
-##### h5 Header5
-###### h6 Header6
-p Paragraph
-* li list item
-* [ ] todo list item
-> Quote
-`` Code
-
 ## Expectations and Requirements
 The [RID Code of Professional Conduct](http://) encourages interpreters to engage in professional development, including familiarity and reading of current literature in the field. Interpreters must not only understand the communication needs of Deaf people but also the core issues that face the field today. Annotated bibliographies provide you with opportunities to research and compile lists of academic texts for your own continued study.
 
@@ -39,7 +27,7 @@ Every semester, students say or ask:
 
 ### “There aren’t enough books or references.”
 
-Nothing could be further from the truth. UVU and hundreds of other libraries, through the intercollegiate library sharing programs that are in place, make the world a very small place when it comes to finding obscure references. This is not supposed to be an easy assignment; you’re going to have to dig for some of these references.
+Nothing could be further from the truth. [UVU and hundreds of other libraries](http://www.uvu.edu/library/), through the intercollegiate library sharing programs that are in place, make the world a very small place when it comes to finding obscure references. This is not supposed to be an easy assignment; you’re going to have to dig for some of these references.
 
 ### “I’ve looked everywhere, but there just aren’t enough references about sign language on my topic.”
 
@@ -49,7 +37,7 @@ The assignment doesn’t say every reference or source has to be about “Americ
 
 While you may find many good materials on the internet, you're also going to run into “articles” written by students just like you. These aren’t rigorous, peer-reviewed, substantiated (or even graded!) data that are good content for your bibliographies. Make sure your compilations are a good mix of academic articles, books or book chapters, and, where appropriate, other related references like newspapers and internet articles. Caveat lector: Beware the blog posting and make sure the reference is citable; “on the internet, nobody knows you’re a dog.”
 
-If you find a book via an internet link (e.g. Google Books or archive.org), don’t use the link (e.g. http://books.google.com/books?id=kNvGuljM99wC) as your bibliography reference, use the actual resource itself (Nomeland, M. M. & Nomeland, R. E. (2012). The deaf community in America: History in the making. Jefferson, North Carolina: McFarland & Company, Inc., Publishers.
+If you find a book via an internet link (e.g. Google Books or archive.org), don’t use the link (e.g. http://books.google.com/books?id=kNvGuljM99wC) as your bibliography reference, use the actual resource itself (Nomeland, M. M. & Nomeland, R. E. (2012). *The deaf community in America: History in the making*. Jefferson, North Carolina: McFarland & Company, Inc., Publishers.
 
 ### “This is all I could find. Even though it doesn’t fill up the whole two pages, is it okay?”
 

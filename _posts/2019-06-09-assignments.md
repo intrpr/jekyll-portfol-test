@@ -9,16 +9,16 @@ description: This course is an introduction to the skills and processes required
 
 {% include not-teaching.html %}
 
-## Learning & Assignment Goals
+# Learning & Assignment Goals
 Among other self-reflective assessments you’ll make this semester, based on expected learning outcomes, there are three main tactical categories of assignments:
 
-### Language and interpretation production
+## Language and interpretation production
 Arguably, the most important technical task new interpreters can practice is the production of interpretation. The process of interpreting has to become familiar in order for it to improve and become more efficacious. So you’ll be doing lots of language. Lots.
 1. In-class participation, presentations, and producing interpreting work. Interpreting necessitates 1) feeling comfortable in front of a group and 2) learning how to create equivalent renderings of topics. Participation in in-class interpreting assignments, exercises, and feedback sessions is, needless to say, <mark>mandatory</mark>.
 2. In-class presentations. While we will be spending time in developing signed language comprehension, our work together this semester will be primarily focused in advancing spoken language mastery. Following presentation criteria which we’ll determine in class, choose any topic and be prepared (impromptu) to give [TED Talks-like](http://www.ted.com) presentations for your classmates. Schedule to be determined in class; dates marked in blue.
 3. Creation of a video portfolio. This is a 3:3:1 course; in other words, you get three credits in exchange for three weekly hours of coursework and one hour of lab work. Patrie’s Effective Interpreting Series is formatted as a workbook, perfect for capturing language lab self- and dyad-paced efforts. This semester you’ll be producing five interpretations from the Effective Interpreting Series text and then posting them (with/for commentary) in your GoREACT account. This exercise benefits in two ways: 1) you’re producing work and 2) you get helpful formative commentary on your work. Scary? Maybe. But super helpful. Did I mention you’re producing work? See the [class schedule](http://) for posting dates identified in green.
 
-### Critical reading and thinking
+## Critical reading and thinking
 An imperative skillset to be developing at this point in your career is becoming familiar with relevant literature, learning how to observe the interpreting environment, and then articulating those observations. You’ll have assignments that provide formative opportunities for these skills.
 
 {% include submit-pdf.html %}
@@ -27,7 +27,7 @@ An imperative skillset to be developing at this point in your career is becoming
 2. Annotated bibliography. In order to keep current on issues facing the interpreting field, you’ll be required to compile an annotated bibliography. Turning in a bibliography indicates that you have actually performed research. If you haven’t done this, don’t turn in a bibliography. Faked work is easily identified, and will result in a failing grade on the assignment. Late bibliographies will be penalized at 10% per day (not class period). See [class schedule for due dates](http://) and the [Writing page](http://) (or a [sample biblography](http://) for requirements and specifications).
 3. Assessments. There will be two performance (interpreted) assessments this semester: an initial pre-assessment and an end-of-semester assessment. There’s only one of these, so unless there’s an exceptional reason, there is no makeup final exam. [See the class schedule](http://); dates marked in orange.
 
-### Community exposure
+## Community exposure
 In order to become a contributing member of the professional community in which you’re about to join, you need to become familiar with...well, the professional community. You’ll have at least one opportunity (and more, if you like, for additional credit) to do that this semester.
 1. Based on the criteria described under “Community Experience Projects,” produce at least a paper containing your experience(s) on Canvas. In your (at least one-page-long) posting(s) discuss:
 	* Your thoughts during this interaction with people in relation to the interpreting field. Be honest. Be detailed. Were you surprised at what you learned? Did your feelings about interpreting change during this assignment? How? Why? Explain.
@@ -37,7 +37,7 @@ In order to become a contributing member of the professional community in which 
 2. Field trip. We’ll be making a visit to the local [Toastmasters](http://) chapter in our area to experience more about public speaking. The date for this is currently TBA and we’ll discuss it in class. The assignment is to submit your observations of the experience as outlined above.
 3. Deaf Studies Today! service and involvement (when available). While this is not required, if you’re not yet on a planning or service committee for the Deaf Studies Today! conference, arrange your semester schedule so you can assist in this extraordinary opportunity to provide interpreting services in an international conference setting.
 
-### Self Evaluations
+## Self Evaluations
 1. Student-teacher contract. Determine the parameters of a [contract between you and the instructor](http://) that will help determine the evaluation and measurement of your in-class performance this semester. What grade do you want? Why? Thoughtfully include what requirements, stipulations, and conditions you’ll need to satisfy in order to warrant the grade you want to earn from this class. Additionally, explain what you feel the instructor can do/should do to enable your best performance. [See the class schedule](http://); this contract is worth ten points. Late submissions will not be accepted.
 2. Midterm Evaluation. About halfway through the semester, [it’ll be time for a kumbaya of sorts](http://), let the instructor know how you’re doing— “great,” “bored,” “frustrated”: get it out. It’ll be anonymous of course, but it will help you and the instructor do any course correcting if needed. Watch [the class schedule](http://) for this; this evaluation is worth an easy-peasy ten points. Late submissions will not be accepted.
 3. Final Evaluation. After the final exam, you’ll have a quick final evaluation that will help me understand how you prepared for the exam as well as answer any final concerns or comments about your experience. While it isn’t graded, it helps me understand if what we practiced was helpful or not. It also helps future classes get the benefit of things in class that you liked or didn’t like.

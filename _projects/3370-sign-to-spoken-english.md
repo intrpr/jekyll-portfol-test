@@ -14,11 +14,11 @@ weight: 1
 
 ![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
 
-###### https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
+https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
 
 {% include not-teaching.html %}
 
-# About this Course
+## About this Course
 
 <p class="lead">This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:</p>
 
