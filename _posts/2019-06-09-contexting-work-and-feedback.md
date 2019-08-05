@@ -9,12 +9,14 @@ description: This course is an introduction to the skills and processes required
 
 {% include not-teaching.html %}
 
-## Developing semantic understanding between spoken English and signed languages
+## Learning to talk about our work as a function of ‘work,’ not of ‘me’
+
+One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Discussing interpretation work is a scientific process, concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on an interpretation’s ‘goodness’ or ‘badness.’ However, talking about ‘equivalence’ in transliterative decisions is different and requires more subjectivity; there is less room for creativity and interpretation in a transliterated event.
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
-* outcome
-* outcome
-* outcome
+* What kind of language should we use when we’re giving formative feedback to each other? Because interpretation evaluation criteria is slightly different, what language should we use when we’re talking about transliterated work product?
+* What rubric(s) should inform our evaluations of transliterated work product?
+* Based on what we read in Witter-Merrithew and Colonomos, how can we measure equivalency and accuracy in our transliterations?
 
 Readings/Discussions
 
