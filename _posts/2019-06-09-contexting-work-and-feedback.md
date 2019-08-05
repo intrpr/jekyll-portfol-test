@@ -28,16 +28,16 @@ Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback l
 
 ***
 
-##The Demand Control Schema for Interpreting Work (DC-S)
+### ##The Demand Control Schema for Interpreting Work (DC-S)
 
-### The Demand Control Schema for Interpreting Work (DC-S) Required
+#### The Demand Control Schema for Interpreting Work (DC-S) Required
 Definition and explanation of Dean & Pollard’s Demand Control Schema
 
-### Consumers and Service Effectiveness in Interpreting Work: A Practice Profession Perspective (2005) Required
+#### Consumers and Service Effectiveness in Interpreting Work: A Practice Profession Perspective (2005) Required
 Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession.
 
-### Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training (2001)
+#### Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training (2001)
 This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.
 
-### Apprenticeship in SL Interpreting
+#### Apprenticeship in SL Interpreting
 Long needed yet sorely misunderstood, apprenticeships and supervision are the next frontier in the elevation of the field. Do you agree with Peterson and/or commenters here?
