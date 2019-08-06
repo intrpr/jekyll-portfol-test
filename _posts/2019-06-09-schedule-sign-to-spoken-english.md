@@ -14,7 +14,7 @@ description: This course is an introduction to the skills and processes required
 
 ## [Contexting interpretive ‘work’ and de-personalizing feedback](http://)
 
-##### Thu, 8 January; Tue, 13 January; Thu, 15 January
+<small>Thu, 8 August; Tue, 13 August; Thu, 15 August</small>
 
 One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Let’s break that cycle; interpreting evaluation is a scientific process concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on the interpreter’s ‘goodness’ or ‘badness.’ Let’s do this.
 
@@ -26,12 +26,9 @@ One of the greatest struggles of the professional signed language interpreting f
 
 <span class="badge badge-pill badge-warning">Exam</span> 13 January: Produce unrehearsed spoken language interpretation (source text in [GoREACT class site](http://); due by 11:59 pm)
 
-Tuesday, January 20<br>
-Thursday, January 22<br>
-Tuesday, January 27<br>
-Thursday, January 29 
-
 ## [Intralingual language development](http://)
+
+<small>Tue, 20 August; Thu, 22 August 22; Tue, 27 August; Thu, 29 January</small>
 
 Developing competent spoken English skills is something you’ve been working on for decades. Now let’s combine comprehension, context, and a little bit of brain muscle to create equivalency in an interpreting event.
 
@@ -39,13 +36,9 @@ Developing competent spoken English skills is something you’ve been working on
 
 <span class="badge badge-pill badge-info">Presentations</span>  15, 20, 22, 27, 29 January: In-class impromptu presentation
 
-Tuesday, February 3<br>
-Thursday, February 5<br>
-Tuesday, February 10<br>
-Thursday, February 12<br>
-Tuesday, February 17 
-
 ## [Organization and analysis of an interpreted text](http://)
+
+<small>Tue, 3 August; Thu, 5 August; Tue, 10 August; Thu, 12 August; Tue, 17 August</small> 
 
 “Which road do I take?,” Alice asked.
 “Where do you want to go?,” the Chesire Cat replied.
@@ -59,13 +52,9 @@ Cognitive organization of a text can help interpreters mentally plan out (roadma
 
 <span class="badge badge-pill badge-info">Presentation</span> 3, 5, 10, 12, 17 February: In-class impromptu presentation
 
-Thursday, February 19<br>
-Tuesday, February 24<br>
-Thursday, February 26<br>
-Tuesday, March 3<br>
-Thursday, March 5 
-
 ## [Attending and listening](http://)
+
+<small>Tue, 3 August; Thu, 5 August; Tue, 10 August; Thu, 12 August; Tue, 17 August</small> 
 
 We’ll focus on... well, focusing. Listening for intent and context is more than just looking for signs that are recognizable. Listening and attending includes both how interpreters access source materials but then also convert messages through comprehension.
 
@@ -73,25 +62,21 @@ We’ll focus on... well, focusing. Listening for intent and context is more tha
 
 <span class="badge badge-pill badge-info">Presentations</span>  19, 24, 26 February; 5 March: In-class impromptu presentation
 
-Tuesday, March 3
-
 ## Midterm evaluation
+
+<small>Tue, 3 August</small> 
 
 <span class="badge badge-pill badge-info">Due</span> Complete the midterm evaluation (due by 11:59 am)
 
-TBD
-
 ## Field trip
+
+<small>To be determined</small>
 
 We’re planning to visit the local chapter of Toastmasters to see what public speaking practice looks like. Fulfills one of the Community Exposure assignments we’re doing this semester.
 
-Tuesday, March 10<br>
-Thursday, March 12<br>
-Tuesday, March 17<br>
-Thursday, March 19<br>
-Tuesday, March 24 
-
 ## [Managing memory issues in an interpretation](http://)
+
+<small>Tue, 3 August; Thu, 5 August; Tue, 10 August; Thu, 12 August; Tue, 17 August</small> 
 
 Human cognition is terribly unique and idiosyncratic and yet more understood now than every before. Understanding what the brain does during an interpreting event leads to better equivalent work product.
 
@@ -99,16 +84,9 @@ Human cognition is terribly unique and idiosyncratic and yet more understood now
 
 <span class="badge badge-pill badge-info">Presentations</span> 5, 10, 12, 17, 19 March: In-class impromptu presentation
 
-Thursday, March 26<br>
-Tuesday, March 31<br>
-Thursday, April 2<br>
-Tuesday, April 7<br>
-Thursday, April 9<br>
-Tuesday, April 14<br>
-Thursday, April 16<br>
-Tuesday, April 21 
-
 ## [Constructing message and meaning](http://)
+
+<small>Tue, 3 August 3; Thu, 5 August; Tue, 10 August; Thu, 12 August; Tue, 17 August</small> 
 
 This section is intended to focus on the DNA and morphology of message. Colonomos’ work point interpreters towards understanding the complex modular parts of what people say, the context, demography, history and etymology: everything that frames and shapes an intended message.
 
@@ -116,8 +94,8 @@ This section is intended to focus on the DNA and morphology of message. Colonomo
 
 <span class="badge badge-pill badge-info">Presentations</span> 26, 31 March; 2, 14, 16, 21 April: In-class impromptu presentation
 
-Friday, April 24
-
 ## (Final) Post-assessment
+
+<small>Fri, 24 April</small>
 
 <span class="badge badge-pill badge-warning">Exam</span> Produce unrehearsed spoken language interpretation (source text in [GoREACT](http://) class site). Due by Friday, 24 April, 11:59 pm.
