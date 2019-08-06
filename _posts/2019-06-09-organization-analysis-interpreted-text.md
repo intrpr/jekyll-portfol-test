@@ -10,13 +10,16 @@ description: This course is an introduction to the skills and processes required
 ## h2
 
 <p class="lead">
-“Which road do I take?,” Alice asked.
-“Where do you want to go?,” the Chesire Cat replied.
-“I don’t know,” Alice answered.
-“Then,” said the Cat, “it doesn’t matter.”
+“Which road do I take?,” Alice asked.<br>
+“Where do you want to go?,” the Chesire Cat replied.<br>
+“I don’t know,” Alice answered.<br>
+“Then,” said the Cat, “it doesn’t matter.”<br>
 <small>(Lewis Carroll, Alice in Wonderland)</small>
+</p>
 
-Cognitive organization of a text can help interpreters mentally plan out ([roadmap and signpost, p. 224; Mindess, 2006](http://)) and know where the intent of a text or discourse is going.</p>
+<p class="lead">
+Cognitive organization of a text can help interpreters mentally plan out ([roadmap and signpost, p. 224; Mindess, 2006](http://)) and know where the intent of a text or discourse is going.
+</p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
 * How do we visualize (predict?) a text as we are either preparing to or interpreting the text? How does visually mapping a text help in our work product?
