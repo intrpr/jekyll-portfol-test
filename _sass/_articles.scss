@@ -99,7 +99,7 @@
 
         &:hover { color: $primary; }
 
-        &::after {
+       /* &::after {
             content: '';
             display: block;
             height: 1px;
@@ -109,7 +109,7 @@
             transition: width .35s;
         }
 
-        &:hover::after { width: 100%; }
+        &:hover::after { width: 100%; }*/
     }
 
     pre {
