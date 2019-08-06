@@ -14,7 +14,11 @@ description: This course is an introduction to the skills and processes required
 
 ## [Contexting interpretive ‘work’ and de-personalizing feedback](http://)
 
-<small>Thu, 8 August; Tue, 13 August; Thu, 15 August</small>
+<small>
+Thu, 8 August<br>
+Tue, 13 August<br>
+Thu, 15 August
+</small>
 
 One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Let’s break that cycle; interpreting evaluation is a scientific process concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on the interpreter’s ‘goodness’ or ‘badness.’ Let’s do this.
 
