@@ -168,7 +168,7 @@
             color: $light;
         }
 
-        th a { color: $light; }
+        th a, th a:hover { color: $light; }
 
         tr:nth-child(even) {
             background-color: $light;
