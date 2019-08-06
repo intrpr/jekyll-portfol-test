@@ -47,10 +47,8 @@ This two-page handout taxonomizes four types of spoken English cohesion and tran
 Colonomos’ “orange sheet.” This diagram helps to explain where, how, and what meaning is derived in a speaker’s/signer’s discourse. All of these constituent domains add up to a speaker’s/signer’s intention. (Don’t download this unless you lose the orange copy handed out in class.)
 
 ### Prediction Skills
-[GRE Sentence Completion Exercises](http://www.majortests.com/gre/sentence_completion.php)
-
-[GRE Sentence Completion Exercises (from ETS Tests)](https://www.ets.org/gre/revised_general/prepare/verbal_reasoning/text_completion/sample_questions)
-
+[GRE Sentence Completion Exercises](http://www.majortests.com/gre/sentence_completion.php)<br>
+[GRE Sentence Completion Exercises (from ETS Tests)](https://www.ets.org/gre/revised_general/prepare/verbal_reasoning/text_completion/sample_questions)<br>
 [GKAcademy GRE Sentence Completion Exercises](http://www.gkacademy.org/gre-text-completions/)
 
 ### [Mindmapping User Tasks](http://www.uxbooth.com/articles/stuck-in-the-details-mind-map-user-tasks)
