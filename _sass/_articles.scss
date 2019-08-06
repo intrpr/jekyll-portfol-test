@@ -164,9 +164,11 @@
             padding-bottom: .75em;
             font-weight: 600;
             text-align: left;
-            background-color: $light;
-            color: $secondary;
+            background-color: $primary;
+            color: $lighter;
         }
+
+        th a { color: $lighter; }
 
         tr:nth-child(even) {
             background-color: $light;
