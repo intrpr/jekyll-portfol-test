@@ -42,5 +42,5 @@ It feels a little pointed beginning in the first paragraph (“...about this thi
 
 Bonus thesis by Amanada Wilson (2009) about [powerful and powerless language in employment interviews] explaining real-world application of how powerless language is perceived in opportunities for self-presentation. (Think about what a deaf interviewee sounds like if/when powerless language is used.) (https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1043&context=hpt).
 
-### [Eye fixation study](http://)
+### [Eye fixation study](https://twitter.com/agabojko/status/425701461142405120)
 Eye fixation study results show how we actually read and process texts. What implications does this have for interpreters?

@@ -15,6 +15,7 @@ description: This course is an introduction to the skills and processes required
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
 * How do I learn? Am I more of a verbal, auditory, or kinesthetic learner? How does that impact my ability to produce a real-time spoken language interpretation?
+* Or, where are my learning strengths? How do multiple intelligences help me understand my abilities in producing interpretations?
 * How do I deal with message ‘decay’? Why do I make miscues?
 * How can I harness the power of cognitive load in producing a spoken language interpretation?
 
@@ -25,8 +26,17 @@ Take this learning preferences style assessment to see where your learning tende
 
 Related: Try the [Big](https://projects.fivethirtyeight.com/personality-quiz/) [Five](http://www.personalitylab.org/tests/bfi2_self_pol.htm) personality quiz or even try the [Myers-Briggs](http://www.humanmetrics.com/cgi-win/jtypes2.asp) [personality exam](http://www.16personalities.com/free-personality-test) or for more detailed information on your learning and psychological preferences. The goal here is not to create a diagnosis, but to identify how you personally process (or dual process) information in an interpreting event.
 
+### Multiple Intelligences
+Howard Gardner proposed the concept of ‘multiple intelligences’ to challenge the concept of IQs; various intelligences (at least eight of them) indicate where various types of information are processed and comprehended. Gardner contrasts multiple intelligences against learning styles, explaining them as “abilities,” rather than approaches to tasks. For a little more insight into your multiple intelligences, try your hand at an intelligences assessment. <span class="badge badge-pill badge-success">Recommended</span>
+
 ### [Model human processor (Card, Moran, & Newell, 1983)](https://www.researchgate.net/figure/The-Model-Human-Processor-memories-and-processors-Card-Moran-Newell-1983-pp_fig11_242625827)
 [What is the brain doing](http://www-personal.umich.edu/~itm/688/wk7/CMN-ch2.PDF) when it’s processing and/or looking at information? <span class="badge badge-pill badge-danger">Required</span>
+
+### The Science of Automating and Perfecting Any Skill
+Achieving automaticity is about making a newly learned skill a part of who you are, as opposed to just a thing you can do. <span class="badge badge-pill badge-danger">Required</span>
+
+### [How To Learn In 2 Days What Normally Takes 6 Months](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e)
+Article reminds that process to learning skills and tasks is relatively straightforward (context-based learning): ‘learn’ a concept, practice/use it in a real-world scenario, get coaching and feedback, rinse and repeat.
 
 ### Those Incredible Interpreters
 Part I: [Interpreting is one of the most difficult linguistic skills](https://www.psychologytoday.com/us/blog/life-bilingual/201109/those-incredible-interpreters) <span class="badge badge-pill badge-danger">Required</span>
@@ -41,6 +51,8 @@ I’m not a huge fan of the ‘10 Things’ genre, but this is especially german
 
 ### [Designing Experience Design](https://medium.com/@kurren/designing-experience-design-24b18a670cbc)
 Tangential to interpreting, the field of user experience spends a great deal of effort in understanding how users cognitively and psychologically process presented information. This article discusses cognitive effort, schema/schemata, and gestalt principles as a way of taxonomizing information. Nerd alert, but helpful in seeing that interpreters aren’t the only ones doing this.
+
+Related: [How human memory works (tips for designers)](https://uxplanet.org/how-human-memory-works-tips-for-ux-designers-12b14071bdf9): interface designers leverage human memory triggers and tactics to create stories and memorable experiences. Interpreter ‘designers’ do the same thing.
 
 ### [Why we forget](http://www.salon.com/2011/11/20/why_we_forget)
 Science shows our memory can easily be distorted and erased — but our forgetfulness also helps us survive.
@@ -70,6 +82,8 @@ First discussed by Allan Paivio, dual-coding theory hypothesizes that visual and
 
 ### [Muscle memory](http://en.wikipedia.org/wiki/Muscle_memory)
 Muscle memory is the concept of training behaviors (or literally, gross/fine motor skills) to be automatic; we perform tasks almost subconsciously and/or without purposely thinking because we’ve performed the task multiple times. [There is an analog to this](http://www.lukew.com/ff/entry.asp?1087) in the design of the user interfaces of our phones, iPods, etc. Does muscle memory also apply to SL interpreting? What skills (if any) can be made automatic and what skills (if any) must remain outside of automatcity? Additional reading in [Karni & Meyer, et al (1998)](http://). Here’s a [visual example of how a two-and-a-half year-old creates muscle memory with an iPad](http://ipad-research.tumblr.com/post/876179082/2-5-y-o-girl-teaches-us-how-young-children). <span class="badge badge-pill badge-danger">Required</span>
+
+https://medium.com/oxford-university/the-amazing-phenomenon-of-muscle-memory-fb1cc4c4726
 
 ### [An introduction to efficiency in learning](http://)
 This is Chapter 1 of Clark, R. C.; Nguyen, F; & Sweller, J. (2006). Efficiency in learning: evidence-based guidelines to manage cognitive load. (pp. 1–13) New York: John Wiley and Sons. This short chapter gives an introduction to CLT, explains a broad taxonomy of types of cognitive load (‘intrinsic’, ‘germane/relevant’, and ‘extraneous/irrelevant’), and gives an introduction to techniques in managing these kinds of load. (Read pp. 9–13.)

@@ -9,12 +9,19 @@ description: This course is an introduction to the skills and processes required
 
 ## h2
 
-<p class="lead">lead</p>
+<p class="lead">
+“Which road do I take?,” Alice asked.
+“Where do you want to go?,” the Chesire Cat replied.
+“I don’t know,” Alice answered.
+“Then,” said the Cat, “it doesn’t matter.”
+<small>(Lewis Carroll, Alice in Wonderland)</small>
+
+Cognitive organization of a text can help interpreters mentally plan out ([roadmap and signpost, p. 224; Mindess, 2006](http://)) and know where the intent of a text or discourse is going.</p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
-* 
-* 
-* 
+* How do we visualize (predict?) a text as we are either preparing to or interpreting the text? How does visually mapping a text help in our work product?
+* What skills are required for me to predict a text?
+* Are there word choices that we can make to help with predicting and interpreting texts?
 
 <p class="h6">Readings/Discussions</p>
 
@@ -30,10 +37,10 @@ Reprinted from Witter-Merithew, A. (2001). Understanding the meaning of texts an
 ### [Discourse mapping: Developing textual coherence skills (Winston & Monikowski)](http://)
 Although written for interpreter educators, this article by Winston & Monikowski, along with the Content Mapping article above, represent seminal works in ASL interpreter education. The concept of discourse mapping (see also [advance organizers](http://en.wikipedia.org/wiki/David_Ausubel) [Ausubel] and [concept mapping](http://en.wikipedia.org/wiki/Concept_map) [Novak & Gowin]) has become an important tool in helping interpreters cognitively map (peg, chunk, link, self-monitor) ideas in discoursal texts.
 
-### Cohesion & Transitional Devices (Spoken English)
+### [Cohesion & Transitional Devices (Spoken English)](http://)
 This two-page handout taxonomizes four types of spoken English cohesion and transitional devices: additive, adversative, causal, and sequential transitions. Helpful in organizing mind/discoursal maps. <span class="badge badge-pill badge-danger">Required</span>
 
-### Constructing Meaning (Colonomos): Discourse Analysis/Notetaking Tool
+### [Constructing Meaning (Colonomos): Discourse Analysis/Notetaking Tool](http://)
 Colonomos’ “orange sheet.” This diagram helps to explain where, how, and what meaning is derived in a speaker’s/signer’s discourse. All of these constituent domains add up to a speaker’s/signer’s intention. (Don’t download this unless you lose the orange copy handed out in class.)
 
 ### Prediction Skills
@@ -43,7 +50,7 @@ Colonomos’ “orange sheet.” This diagram helps to explain where, how, and w
 
 [GKAcademy GRE Sentence Completion Exercises](http://www.gkacademy.org/gre-text-completions/)
 
-### Mindmapping User Tasks
+### [Mindmapping User Tasks](http://www.uxbooth.com/articles/stuck-in-the-details-mind-map-user-tasks)
 Again, another article from the world of design and user experience, “[mind maps enable association-based thinking in a non-linear (think: “non-English”) way](http://www.uxbooth.com/articles/stuck-in-the-details-mind-map-user-tasks).” What principles in this article about design are applicable to interpreter thinking?
 
 ### How UVU students use mindmapping in their work
