@@ -11,11 +11,10 @@ description: This course is an introduction to the skills and processes required
 
 (This schedule is subject to frequent changes and updates; please check back often.)
 
-**Thursday, January 8<br>
-Tuesday, January 13<br>
-Thursday, January 15**
 
 ## [Contexting interpretive ‘work’ and de-personalizing feedback](http://)
+
+###### Thursday, January 8; Tuesday, January 13; Thursday, January 15
 
 One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Let’s break that cycle; interpreting evaluation is a scientific process concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on the interpreter’s ‘goodness’ or ‘badness.’ Let’s do this.
 
@@ -37,6 +36,7 @@ Thursday, January 29
 Developing competent spoken English skills is something you’ve been working on for decades. Now let’s combine comprehension, context, and a little bit of brain muscle to create equivalency in an interpreting event.
 
 <span class="badge badge-pill badge-success">Video</span> 20 January: Video 1 (choose any from class text; submit in GoREACT)
+
 <span class="badge badge-pill badge-info">Presentations</span>  15, 20, 22, 27, 29 January: In-class impromptu presentation
 
 Tuesday, February 3<br>
@@ -56,6 +56,7 @@ Tuesday, February 17
 Cognitive organization of a text can help interpreters mentally plan out (roadmap and signpost; Mindess, 2006) and know where the intent of a text or discourse is going.
 
 <span class="badge badge-pill badge-success">Video</span> 10 February: Video 2 (choose any from class text; submit in GoREACT)
+
 <span class="badge badge-pill badge-info">Presentation</span> 3, 5, 10, 12, 17 February: In-class impromptu presentation
 
 Thursday, February 19<br>
@@ -69,6 +70,7 @@ Thursday, March 5
 We’ll focus on... well, focusing. Listening for intent and context is more than just looking for signs that are recognizable. Listening and attending includes both how interpreters access source materials but then also convert messages through comprehension.
 
 <span class="badge badge-pill badge-success">Video</span> 3 March: Video 3 (choose any from class text; submit in [GoREACT](http://))
+
 <span class="badge badge-pill badge-info">Presentations</span>  19, 24, 26 February; 5 March: In-class impromptu presentation
 
 Tuesday, March 3
@@ -94,6 +96,7 @@ Tuesday, March 24
 Human cognition is terribly unique and idiosyncratic and yet more understood now than every before. Understanding what the brain does during an interpreting event leads to better equivalent work product.
 
 <span class="badge badge-pill badge-success">Video</span> 24 March: Video 4 (choose any from class text; submit in GoREACT)
+
 <span class="badge badge-pill badge-info">Presentations</span> 5, 10, 12, 17, 19 March: In-class impromptu presentation
 
 Thursday, March 26<br>
@@ -110,6 +113,7 @@ Tuesday, April 21
 This section is intended to focus on the DNA and morphology of message. Colonomos’ work point interpreters towards understanding the complex modular parts of what people say, the context, demography, history and etymology: everything that frames and shapes an intended message.
 
 <span class="badge badge-pill badge-success">Video</span> 21 April: Video 5 (choose any from class text; submit in GoREACT)
+
 <span class="badge badge-pill badge-info">Presentations</span> 26, 31 March; 2, 14, 16, 21 April: In-class impromptu presentation
 
 Friday, April 24
