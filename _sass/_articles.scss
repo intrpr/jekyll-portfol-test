@@ -165,10 +165,10 @@
             font-weight: 600;
             text-align: left;
             background-color: $primary;
-            color: $lighter;
+            color: $light;
         }
 
-        th a { color: $lighter; }
+        th a { color: $light; }
 
         tr:nth-child(even) {
             background-color: $light;
