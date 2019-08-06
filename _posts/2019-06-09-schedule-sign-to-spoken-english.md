@@ -20,9 +20,9 @@ One of the greatest struggles of the professional signed language interpreting f
 
 <span class="badge badge-pill badge-info">Due</span> 8 January: [Student/teacher contract due](http://) (due by 11:59 pm)
 
-Tuesday, January 13
-
 ## Pre-assessment
+
+<small>Tue, 13 January</small>
 
 <span class="badge badge-pill badge-warning">Exam</span> 13 January: Produce unrehearsed spoken language interpretation (source text in [GoREACT class site](http://); due by 11:59 pm)
 
@@ -118,6 +118,6 @@ This section is intended to focus on the DNA and morphology of message. Colonomo
 
 Friday, April 24
 
-### (Final) Post-assessment
+## (Final) Post-assessment
 
 <span class="badge badge-pill badge-warning">Exam</span> Produce unrehearsed spoken language interpretation (source text in [GoREACT](http://) class site). Due by Friday, 24 April, 11:59 pm.
