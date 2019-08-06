@@ -19,17 +19,13 @@ Thursday, January 15**
 
 One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Let’s break that cycle; interpreting evaluation is a scientific process concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on the interpreter’s ‘goodness’ or ‘badness.’ Let’s do this.
 
-Due 8 January: [Student/teacher contract due](http://) (due by 11:59 pm)
-
-***
+<span class="badge badge-pill badge-info">Due</span> 8 January: [Student/teacher contract due](http://) (due by 11:59 pm)
 
 Tuesday, January 13
 
 ## Pre-assessment
 
-Exam 13 January: Produce unrehearsed spoken language interpretation (source text in [GoREACT class site](http://); due by 11:59 pm)
-
-***
+<span class="badge badge-pill badge-warning">Exam</span> 13 January: Produce unrehearsed spoken language interpretation (source text in [GoREACT class site](http://); due by 11:59 pm)
 
 Tuesday, January 20<br>
 Thursday, January 22<br>
@@ -40,11 +36,8 @@ Thursday, January 29
 
 Developing competent spoken English skills is something you’ve been working on for decades. Now let’s combine comprehension, context, and a little bit of brain muscle to create equivalency in an interpreting event.
 
-Video 20 January: Video 1 (choose any from class text; submit in GoREACT)
-
-Presentations 15, 20, 22, 27, 29 January: In-class impromptu presentation
-
-***
+<span class="badge badge-pill badge-success">Video</span> 20 January: Video 1 (choose any from class text; submit in GoREACT)
+<span class="badge badge-pill badge-info">Presentations</span>  15, 20, 22, 27, 29 January: In-class impromptu presentation
 
 Tuesday, February 3<br>
 Thursday, February 5<br>
@@ -62,11 +55,8 @@ Tuesday, February 17
 
 Cognitive organization of a text can help interpreters mentally plan out (roadmap and signpost; Mindess, 2006) and know where the intent of a text or discourse is going.
 
-Video 10 February: Video 2 (choose any from class text; submit in GoREACT)
-
-Presentation 3, 5, 10, 12, 17 February: In-class impromptu presentation
-
-***
+<span class="badge badge-pill badge-success">Video</span> 10 February: Video 2 (choose any from class text; submit in GoREACT)
+<span class="badge badge-pill badge-info">Presentation</span> 3, 5, 10, 12, 17 February: In-class impromptu presentation
 
 Thursday, February 19<br>
 Tuesday, February 24<br>
@@ -78,26 +68,20 @@ Thursday, March 5
 
 We’ll focus on... well, focusing. Listening for intent and context is more than just looking for signs that are recognizable. Listening and attending includes both how interpreters access source materials but then also convert messages through comprehension.
 
-Video 3 March: Video 3 (choose any from class text; submit in [GoREACT](http://))
-Presentation 19, 24, 26 February; 5 March: In-class impromptu presentation
-
-***
+<span class="badge badge-pill badge-success">Video</span> 3 March: Video 3 (choose any from class text; submit in [GoREACT](http://))
+<span class="badge badge-pill badge-info">Presentations</span>  19, 24, 26 February; 5 March: In-class impromptu presentation
 
 Tuesday, March 3
 
 ## Midterm evaluation
 
-Due Complete the midterm evaluation (due by 11:59 am)
-
-***
+<span class="badge badge-pill badge-info">Due</span> Complete the midterm evaluation (due by 11:59 am)
 
 TBD
 
 ## Field trip
 
 We’re planning to visit the local chapter of Toastmasters to see what public speaking practice looks like. Fulfills one of the Community Exposure assignments we’re doing this semester.
-
-***
 
 Tuesday, March 10<br>
 Thursday, March 12<br>
@@ -109,10 +93,8 @@ Tuesday, March 24
 
 Human cognition is terribly unique and idiosyncratic and yet more understood now than every before. Understanding what the brain does during an interpreting event leads to better equivalent work product.
 
-Video 24 March: Video 4 (choose any from class text; submit in GoREACT)
-Presentation 5, 10, 12, 17, 19 March: In-class impromptu presentation
-
-***
+<span class="badge badge-pill badge-success">Video</span> 24 March: Video 4 (choose any from class text; submit in GoREACT)
+<span class="badge badge-pill badge-info">Presentations</span> 5, 10, 12, 17, 19 March: In-class impromptu presentation
 
 Thursday, March 26<br>
 Tuesday, March 31<br>
@@ -127,13 +109,11 @@ Tuesday, April 21
 
 This section is intended to focus on the DNA and morphology of message. Colonomos’ work point interpreters towards understanding the complex modular parts of what people say, the context, demography, history and etymology: everything that frames and shapes an intended message.
 
-Video 21 April: Video 5 (choose any from class text; submit in GoREACT)
-Presentation 26, 31 March; 2, 14, 16, 21 April: In-class impromptu presentation
-
-***
+<span class="badge badge-pill badge-success">Video</span> 21 April: Video 5 (choose any from class text; submit in GoREACT)
+<span class="badge badge-pill badge-info">Presentations</span> 26, 31 March; 2, 14, 16, 21 April: In-class impromptu presentation
 
 Friday, April 24
 
 ### (Final) Post-assessment
 
-Exam Produce unrehearsed spoken language interpretation (source text in [GoREACT](http://) class site). Due by Friday, 24 April, 11:59 pm.
+<span class="badge badge-pill badge-warning">Exam</span> Produce unrehearsed spoken language interpretation (source text in [GoREACT](http://) class site). Due by Friday, 24 April, 11:59 pm.

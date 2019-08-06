@@ -9,10 +9,13 @@ description: This course is an introduction to the skills and processes required
 
 ## Learning to talk about our work as a function of ‘work,’ not of ‘me’
 
-<p class="lead">One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Discussing interpretation work is a scientific process, concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on an interpretation’s ‘goodness’ or ‘badness.’ However, talking about ‘equivalence’ in transliterative decisions is different and requires more subjectivity; there is less room for creativity and interpretation in a transliterated event.</p>
+<p class="lead">One of the greatest struggles of the professional signed language interpreting field is the difficulty practitioners have in depersonalizing work product. Discussing interpretation work is a scientific process, concerned with gathering data and scrutinizing *equivalency of message from source to target*, not adjectival commentary on an interpretation’s ‘goodness’ or ‘badness.’ However, talking about ‘equivalence’ in transliterative decisions is different and requires more subjectivity; there is less room for creativity and interpretation in a transliterated event.</p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
+* Why is evaluative language in discussion about work product problematic? What formulas persist from speaking this way about our work?
 * What kind of language should we use when we’re giving formative feedback to each other? Because interpretation evaluation criteria is slightly different, what language should we use when we’re talking about transliterated work product?
+* How do we shift our discussion language away from evaluative to equivalency?
+* How can we move past “it depends” when trying to answer questions about how we can solve intepreting problems?
 * What rubric(s) should inform our evaluations of transliterated work product?
 * Based on what we read in Witter-Merrithew and Colonomos, how can we measure equivalency and accuracy in our transliterations?
 
@@ -28,7 +31,11 @@ This article contains an unpublished article (2001) by Anna Witter-Merithew, Dir
 ### [Non-evaluative feedback language (Colonomos)](http://)
 Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback language we use with interpreter colleagues. To be used in class discussions and interpretive work processing. Live it. Love it. Learn it. (Don’t download this unless you lose the yellow copy handed out in class.) 
 
-***
+### [“Do We Eat Our Young and One Another? Horizontal Violence Among Signed Language Interpreters”](http://)
+This 2012 thesis by Western Oregon University graduate Emily Ott explores the incidence of intergenerational communication conflict and horizontal violence between new and experienced interpreters.
+
+### [“Why Is It So Hard to Accept Feedback”](http://)
+Short but applicable vlog by writer/educator Trudy Suggs on how to view feedback and commentary on our work. Based on our class discussion about reframing feedback and evaluation discourse, can you see how this would be important? (From Vimeo) <span class="badge badge-pill badge-success">Highly Recommended</span>
 
 ### [“How to give (and not give) feedback”](http://)
 Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="badge badge-pill badge-danger">Required</span>
@@ -49,7 +56,7 @@ While we won’t be directly referencing DC-S in this discussion about evaluatio
 Definition and explanation of Dean & Pollard’s Demand Control Schema. <span class="badge badge-pill badge-danger">Required</span>
 
 ### [Consumers and Service Effectiveness in Interpreting Work: A Practice Profession Perspective (2005)](http://)
-Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession. <span class="badge badge-pill badge-danger">Required</span>
+Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession.  (Read pp. 259–271; stop at “Ethics, Consumers, and...”) <span class="badge badge-pill badge-danger">Required</span>
 
 ### [Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training (2001)](http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf)
 This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.<span class="badge badge-pill badge-success">Recommended</span>
