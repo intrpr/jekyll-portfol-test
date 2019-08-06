@@ -43,10 +43,7 @@ Note: All downloadable files—class notes, syllabi, and other handouts—are sa
 
 ***
 
-<div class="card bg-light mb-3">
-	<div class="card-body">
-
-What others have said about this course:
+### What others have said about this course:
 “...The feedback from my interpreting in class was so valuable and it allowed me to learn of patterns in my work that I could work on...”
 
 “...This has been my all-time favorite class at UVU. I loved the format of the class and felt like I left class each time with an increased knowledge or confidence in something...”
@@ -58,9 +55,6 @@ What others have said about this course:
 “...[T]his class... really changed how I feel about interpreting. I was pushed just the right amount.”
 
 “...I learned a lot about processing and dual-tasking. It was helpful when [we] discussed the process that takes place in our brain while interpreting.”
-
-	</div>
-</div>
 
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
