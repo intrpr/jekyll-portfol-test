@@ -39,6 +39,23 @@ A significant portion of this course requires self-directed efforts (asychronous
 
 **This course requires a one-hour per week lab criteria**; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
 
+###### Note: All downloadable files—class notes, syllabi, and other handouts—are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, you can download it free.
+
+***
+
+### What others have said about this course:
+“...The feedback from my interpreting in class was so valuable and it allowed me to learn of patterns in my work that I could work on...”
+
+“...This has been my all-time favorite class at UVU. I loved the format of the class and felt like I left class each time with an increased knowledge or confidence in something...”
+
+“...[T]he class is...tailored to the questions being posed in class and the skill level of the individual students.”
+
+“...I really enjoy the safety of the class... when I make mistakes, I don't feel that my pride/ego has been abused.”
+
+“...[T]his class... really changed how I feel about interpreting. I was pushed just the right amount.”
+
+“...I learned a lot about processing and dual-tasking. It was helpful when [we] discussed the process that takes place in our brain while interpreting.”
+
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
 </p>
