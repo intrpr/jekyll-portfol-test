@@ -31,7 +31,9 @@ http://www.therapidian.org/sites/default/files/article_images/signlanguage.jpg
 
 In addition, this course will help prepare candidates to take the [Utah State](https://jobs.utah.gov/usor/uip/certification/index.html) and/or [RID NIC](http://rid.org/education/testing/index.cfm) written examination.
 
-Looking for a class where you begin producing interpreting work? Try [ASL3350: Consecutive Interpreting](http://).
+<div class="alert alert-primary" role="alert">
+	Looking for a class where you begin producing interpreting work? Try [ASL3350: Consecutive Interpreting](http://).
+</div>
 
 A significant portion of this course requires self-directed efforts (a/sychronously working with other colleagues) and fairly good command of web-based technologies and learning environments (video creation, salient discussion and reporting skills; we’ll discuss this more in class).
 

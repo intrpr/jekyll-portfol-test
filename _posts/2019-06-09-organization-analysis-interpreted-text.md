@@ -54,5 +54,8 @@ Colonomos’ “orange sheet.” This diagram helps to explain where, how, and w
 ### [Mindmapping User Tasks](http://www.uxbooth.com/articles/stuck-in-the-details-mind-map-user-tasks)
 Again, another article from the world of design and user experience, “[mind maps enable association-based thinking in a non-linear (think: “non-English”) way](http://www.uxbooth.com/articles/stuck-in-the-details-mind-map-user-tasks).” What principles in this article about design are applicable to interpreter thinking?
 
+### [(Five) Models for Making Sense of Complex Systems](https://medium.com/@cwodtke/five-models-for-making-sense-of-complex-systems-134be897b6b3)
+Designers and data scientists use a variety of ways to visualize ‘data discourse.’ Do any of these approaches apply to visualizing and predicting a potential interpreted text?
+
 ### How UVU students use mindmapping in their work
 Rebecca Halls (UVU ’10) shows us how she prepared for this assignment. Great job, Becca. Making us proud.
