@@ -1,6 +1,6 @@
 ---
 title: Manual codes for English (MCEs)
-course: (ASL3370) Sign to Spoken English
+course: 
 tags: [ASL3370, ASL, English, listening]
 style: 
 color: 

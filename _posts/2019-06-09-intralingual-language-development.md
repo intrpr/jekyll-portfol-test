@@ -1,5 +1,5 @@
 ---
-title: Intralingual development
+title: Interlingual language development
 course:
 tags: [ASL3370, ASL, English, listening]
 style: 
@@ -9,14 +9,14 @@ description: This course is an introduction to the skills and processes required
 
 {% include not-teaching.html %}
 
-## h2
+## Developing semantic understanding between spoken English and signed languages
 
-<p class="lead">intro paragraph</p>
+<p class="lead">Not only is having an expert command of spoken English and signed-language skills requisite to producing transliterated work, connecting these abilities for simultaneous production is also fundamental. A significant portion of this course will be spent on discussing, reacquiring, and synthesizing knowledge and fluency of grammatical skills inherent in both languages.</p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
-* outcome
-* outcome
-* outcome
+* How does X grammatical aspect manifest itself in signed language and spoken English? How does X differ in both languages and what can I do to create equivalent meaning in both?
+* Will my language choices affect the intended register?
+* What lessons and principles from spoken English impact my ability to produce a transliterated equivalent?
 
 Readings/Discussions
 
@@ -25,6 +25,10 @@ This is a pre-published version of this article by Dennis Cokely, Dean of the AS
 
 ### [Cohesion & Transitional Devices (Spoken English)](http://)
 This two-page handout taxonomizes four types of spoken English cohesion and transitional devices: additive, adversative, causal, and sequential transitions. Helpful in organizing mind/discoursal maps. <span class="badge badge-pill badge-danger">Required</span>
+
+***
+
+{% include parts-of-speech.html %}
 
 ### [Understanding Registers of Language (ASL and English)](http://) <span class="badge badge-pill badge-danger">Required</span>
 
