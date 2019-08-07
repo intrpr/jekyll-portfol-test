@@ -7,8 +7,6 @@ color:
 description:
 ---
 
-{% include not-teaching.html %}
-
 ## Understanding transliteration morphology
 
 <p class="lead">Transliterating between spoken English and codes of English is not the same as interpreting between spoken English and American Sign Language. Transliterators need to have familiarity with and skill in a variety of representations of both spoken English and English-bound sign systems to produce their work.</p>
@@ -37,3 +35,5 @@ A comparative language continuum demonstrating the overlapping relationship of A
 
 ### [Model human processor (Card, Moran, & Newell, 1983)](https://www.researchgate.net/figure/The-Model-Human-Processor-memories-and-processors-Card-Moran-Newell-1983-pp_fig11_242625827)
 [What is the brain doing](http://www-personal.umich.edu/~itm/688/wk7/CMN-ch2.PDF) when it’s processing and/or looking at information? <span class="badge badge-pill badge-danger">Required</span>
+
+{% include mce-comparison.html %}
