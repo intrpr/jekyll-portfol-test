@@ -30,12 +30,5 @@ A comparative language continuum demonstrating the overlapping relationship of A
 (pp. 123–131) Discusses implications and impacts of MCE use on educational participants and consumers. Davis, J. (2005). Code choices and consequences: Implications for educational interpreting. In M. Marschark, R. Peterson, and E. Winston (eds.) Sign language: Interpreting and Interpreter Education — Directions for Research and Practice. New York: Oxford University Press.
 
 ***
-#### General Principles: Manual Codes for English (MCEs)
-### [Manual Codes of English](https://en.wikipedia.org/wiki/Manually_coded_English)
-
-### [Model human processor (Card, Moran, & Newell, 1983)](https://www.researchgate.net/figure/The-Model-Human-Processor-memories-and-processors-Card-Moran-Newell-1983-pp_fig11_242625827)
-[What is the brain doing](http://www-personal.umich.edu/~itm/688/wk7/CMN-ch2.PDF) when it’s processing and/or looking at information? <span class="badge badge-pill badge-danger">Required</span>
-
-***
 
 {% include mce-comparison.html %}
