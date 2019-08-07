@@ -23,7 +23,7 @@ Readings/Discussions
 ### Transliterating: Show Me The English (Kelly)
 Chapter 1 (pp. 4–6) <span class="badge badge-pill badge-danger">Required</span>
 
-### Handout (Stringham)
+### [Handout (Stringham)](http://)
 A comparative language continuum demonstrating the overlapping relationship of American Sign Language and English which result in contact sign and manually coded English (MCE) forms and approaches (PSE, CASE, SSS, SimCom, TC, etc.). Identifies and briefly describes the most commonly known and/or used languages and MCE forms and approaches. <span class="badge badge-pill badge-danger">Required</span>
 
 ### [Code choices and consequences: Implications for educational interpreting](http://)
@@ -35,5 +35,7 @@ A comparative language continuum demonstrating the overlapping relationship of A
 
 ### [Model human processor (Card, Moran, & Newell, 1983)](https://www.researchgate.net/figure/The-Model-Human-Processor-memories-and-processors-Card-Moran-Newell-1983-pp_fig11_242625827)
 [What is the brain doing](http://www-personal.umich.edu/~itm/688/wk7/CMN-ch2.PDF) when it’s processing and/or looking at information? <span class="badge badge-pill badge-danger">Required</span>
+
+***
 
 {% include mce-comparison.html %}
