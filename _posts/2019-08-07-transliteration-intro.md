@@ -1,24 +1,13 @@
 ---
-name: <small>ASL3380</small><br> Transliteration
-tools: [3380, Transliteration, ASL, English, Interpreting]
-image: http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg
+title: About This Course
+course: (ASL3380) Transliteration
+tags: [ASL3380, ASL, English, transliteration]
+style: 
+color: 
 description: This course is an introduction to the process and skills required to produce bidirectional English-bound signing-to-spoken English language transliterations between Deaf and nondeaf people.
-weight: 2
 ---
 
-# Transliteration <small>(ASL3380)</small>
-
-***
-
-{% include class-nav.html %}
-
-![](http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg)
-
-http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg
-
 {% include not-teaching.html %}
-
-## About this Course
 
 <p class="lead">This course is an introduction to the process and skills required to produce bidirectional English-bound signing-to-spoken English language transliterations between Deaf and nondeaf people. Upon successful completion of this course, students will demonstrate they can:</p>
 
@@ -38,17 +27,18 @@ A significant portion of this course requires self-directed efforts (a/sychronou
 
 **This course requires a one-hour per week lab criteria**; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
 
-Note: All downloadable files—class notes, syllabi, and other handouts—are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://www.adobe.com/products/acrobat/readstep2.html).
+Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).
+
 
 ## Published Course Description and Prerequisites
-
 In keeping with a January 2016 request from the University’s Department of Languages and Cultures, the original course description and prerequisites are listed below. The learning objectives at left/above on this site/page are expansions and clarifications of the original expectations:
 
 “Prerequisite: [Completion of] ASL3310 and University Advanced Standing. 3:3:1 [three semester credits; three weekly contact hours and one lab hour]. Introduces students to skills and processes required to produce conceptually accurate and linguistically appropriate messages using ASL signs in an English word order. Develops cognitive, semantic, and dual tasking abilities required to interpret spontaneous texts. Teaches and incorporates more advanced semantic choices and negotiation techniques, work with a variety of audience sizes and types. Helps students better understand how ethics impact behavioral decisions and interpretations. Gives more consideration to developing sets of technical or field-specific signs and applying these to interpretative work. Includes one-hour per week lab. Lab access fee of $10 applies.
 “Upon successful completion, students should be able to:
-* In real time, analyze and begin encoding source language for production in the target language.
-* With correct pronunciation, conceptual accuracy, and, using the culture of the source language as a driver, accurately express messages in the target linguistic order in a smooth and comprehensible fashion.
-* Have a greater understanding of the impact of physical and psychological factors on the interpreting interaction.
-* Demonstrate and understanding of the impact of the Code of Ethics on interpreting decisions.
-* Accurately receive and comprehend more advanced messages.
-* Demonstrate command of a sizeable lexicon of technical and field-specific terms.”
+In real time, analyze and begin encoding source language for production in the target language.
+With correct pronunciation, conceptual accuracy, and, using the culture of the source language as a driver, accurately express messages in the target linguistic order in a smooth and comprehensible fashion.
+Have a greater understanding of the impact of physical and psychological factors on the interpreting interaction.
+Demonstrate and understanding of the impact of the Code of Ethics on interpreting decisions.
+Accurately receive and comprehend more advanced messages.
+Demonstrate command of a sizeable lexicon of technical and field-specific terms.”
+

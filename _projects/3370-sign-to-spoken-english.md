@@ -1,12 +1,12 @@
 ---
-name: <small>ASL3370</small><br> Sign-to-Spoken English Interpreting
+name: <small>ASL3370</small><br> Sign to Spoken-English Interpreting
 tools: [3370, Sign-to-Spoken English, ASL, English, Interpreting]
 image: https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
 weight: 1
 ---
 
-# Sign-to-Spoken-English Interpreting <small>(ASL3370)</small>
+# Sign to Spoken-English Interpreting <small>(ASL3370)</small>
 
 ***
 
@@ -41,9 +41,7 @@ A significant portion of this course requires self-directed efforts (asychronous
 
 Note: All downloadable files—class notes, syllabi, and other handouts—are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://www.adobe.com/products/acrobat/readstep2.html).
 
-***
-
-### What others have said about this course:
+## What others have said about this course:
 “...The feedback from my interpreting in class was so valuable and it allowed me to learn of patterns in my work that I could work on...”
 
 “...This has been my all-time favorite class at UVU. I loved the format of the class and felt like I left class each time with an increased knowledge or confidence in something...”
