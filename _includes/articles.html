@@ -30,22 +30,24 @@
 		{% endif %}
 
 		<div class="col-lg-12 my-2 wow animated fadeIn" data-wow-delay=".15s">
-			<a href="{{ article_url }}" class="" style="padding: 1em 0 0 0; margin: 1em 0 0 0; border: 1px solid $separator">
-				<p>{{ post.date | date_to_long_string }}</p>
-				<p>
-					{% for tag in post.tags %}
-						<span class="badge {{ badge_style }}">{{ tag }}</span>
-					{% endfor %}
-				</p>
-				<p>{{ post.title }}</p>
-				<p>
-					{% if post.description %}
-						{{ post.description }}
-					{% else %}
-						{{ post.content | truncatewords: 25, "<small><i>  read more...</i></small>" }}
-					{% endif %}
-				</p>
-			</a>
+			<div style="padding: 1em 0 0 0; margin: 1em 0 0 0; border: 1px solid rgba(0,0,0,.15);">
+				<a href="{{ article_url }}" class="">
+					<p>{{ post.date | date_to_long_string }}</p>
+					<p>
+						{% for tag in post.tags %}
+							<span class="badge {{ badge_style }}">{{ tag }}</span>
+						{% endfor %}
+					</p>
+					<p>{{ post.title }}</p>
+					<p>
+						{% if post.description %}
+							{{ post.description }}
+						{% else %}
+							{{ post.content | truncatewords: 25, "<small><i>  read more...</i></small>" }}
+						{% endif %}
+					</p>
+				</a>
+			</div>
 		</div>
 
 	{% endfor %}
