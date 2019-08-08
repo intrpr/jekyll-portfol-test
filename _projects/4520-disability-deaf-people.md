@@ -11,11 +11,7 @@ weight: 4
 
 {% include class-nav.html %}
 
-{% include figure.html image="https://ichef.bbci.co.uk/news/660/cpsprodpb/8888/production/_96025943_deafchildrenx.jpg" caption="https://ichef.bbci.co.uk/news/660/cpsprodpb/8888/production/_96025943_deafchildrenx.jpg." %}
-
-![](https://ichef.bbci.co.uk/news/660/cpsprodpb/8888/production/_96025943_deafchildrenx.jpg)
-
-https://ichef.bbci.co.uk/news/660/cpsprodpb/8888/production/_96025943_deafchildrenx.jpg
+{% include figure.html image="https://ichef.bbci.co.uk/news/660/cpsprodpb/8888/production/_96025943_deafchildrenx.jpg" caption="https://ichef.bbci.co.uk/news/660/cpsprodpb/8888/production/_96025943_deafchildrenx.jpg" %}
 
 {% include not-teaching.html %}
 
