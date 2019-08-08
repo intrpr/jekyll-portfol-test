@@ -17,7 +17,7 @@ weight: 4
 
 ## About this Course
 
-<p class="lead">This online-only course is a seminar-like introduction and examination into the confluence of Deaf people and disability studies. Instructor/student interaction will be in both ASL and [written English](http://www.hemingwayapp.com). Upon successful completion of this course, students should be able to demonstrate they can:</p>
+<p class="lead">This online-only course is a seminar-like introduction and examination into the confluence of Deaf people and disability studies. Instructor/student interaction will be in both ASL and <a href="http://www.hemingwayapp.com">written English</a>. Upon successful completion of this course, students should be able to demonstrate they can:</p>
 
 * explain how American society constructs disability and contrast this with perspectives from disability studies and Deaf studies
 * describe historical, social, political, religious, philosophical, and cultural influences on both Deaf and disabled people
