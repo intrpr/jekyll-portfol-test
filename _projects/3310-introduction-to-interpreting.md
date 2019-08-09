@@ -11,9 +11,7 @@ weight: 6
 
 {% include class-nav.html %}
 
-![](http://www.therapidian.org/sites/default/files/article_images/signlanguage.jpg)
-
-http://www.therapidian.org/sites/default/files/article_images/signlanguage.jpg
+{% include figure.html image="http://www.therapidian.org/sites/default/files/article_images/signlanguage.jpg" alt="a closeup image of a female signer in a black shirt with hands slightly outstretched in front of her" caption="http://www.therapidian.org/sites/default/files/article_images/signlanguage.jpg" %}
 
 {% include not-teaching.html %}
 

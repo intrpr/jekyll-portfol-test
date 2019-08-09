@@ -11,9 +11,7 @@ description: This course is a collaborative seminar designed to 1) bring student
 
 {% include class-nav.html %}
 
-![](https://static.wixstatic.com/media/cce7c0_4bb7c4b61469507ed51333f4f89cb89a.jpg)
-
-https://static.wixstatic.com/media/cce7c0_4bb7c4b61469507ed51333f4f89cb89a.jpg
+{% include figure.html image="https://static.wixstatic.com/media/cce7c0_4bb7c4b61469507ed51333f4f89cb89a.jpg" alt="user tapping in characters onto a white iPad" caption="https://static.wixstatic.com/media/cce7c0_4bb7c4b61469507ed51333f4f89cb89a.jpg" %}
 
 {% include not-teaching.html %}
 

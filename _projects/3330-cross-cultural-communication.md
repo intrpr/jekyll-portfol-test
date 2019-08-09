@@ -12,9 +12,7 @@ weight: 7
 
 {% include class-nav.html %}
 
-![](http://www.ntid.rit.edu/sites/default/files/imagecache/newsphoto_big/1290_large.jpg)
-
-http://www.ntid.rit.edu/sites/default/files/imagecache/newsphoto_big/1290_large.jpg
+{% include figure.html image="http://www.ntid.rit.edu/sites/default/files/imagecache/newsphoto_big/1290_large.jpg" alt="a deaf patient in a hospital bed with a hearing female doctor to her right and a female interpreter in a dark maroon shirt standing next to the doctor" caption="http://www.ntid.rit.edu/sites/default/files/imagecache/newsphoto_big/1290_large.jpg" %}
 
 {% include not-teaching.html %}
 

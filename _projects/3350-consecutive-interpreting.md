@@ -11,9 +11,7 @@ weight: 3
 
 {% include class-nav.html %}
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Interp.jpg/640px-Interp.jpg)
-
-http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Interp.jpg/640px-Interp.jpg
+{% include figure.html image="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Interp.jpg/640px-Interp.jpg" alt="an asian male and caucaisian red-haired female interpreter working on a signed interpretation in a lab at a university" caption="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Interp.jpg/640px-Interp.jpg" %}
 
 {% include not-teaching.html %}
 

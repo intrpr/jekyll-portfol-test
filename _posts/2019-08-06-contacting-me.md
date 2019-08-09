@@ -1,23 +1,23 @@
 ---
 title: Contacting Me
-tags: [contact me]
+tags: [contacting, students, interaction]
 style: 
 color: 
-description: 
+description:
 ---
 
 ## Contacting Me
 
-You may contact me at any time via e-mail or by arranging a meeting time before or after class. If you need to contact me, try these methods:
+Because I don’t have office hours, you may contact me at any time via e-mail or by arranging a meeting time before or after class, or try one of these methods:
 
 * dstringham (at) gmail.com (also Google Hangouts and FaceTime)
-* [Canvas](https://uvu.instructure.com/)
+* [Canvas](https://uvu.instructure.com)
 * [Twitter](http://twitter.com/stringd)
-* [Messenger](https://www.messenger.com/)
+* [Messenger](https://www.messenger.com)
 
 ## On campus
 
-* Catch or make an appointment with me before/after class in LI 212.
+This semester, catch or make an appointment with me before/after class in **LI 212**.
 
 ## Phone
 

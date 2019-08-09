@@ -1,10 +1,10 @@
 ---
 title: Where would I use transliteration?
-course: (ASL3370) Transliteration
-tags: [ASL3370, ASL, English, listening]
+course: Transliteration (ASL3380)
+tags: [ASL3380, ASL, English, transliteration]
 style: 
 color: 
-description: 
+description: If Deaf people prefer American Sign Language as their primary language, where/why would they ever use transliteration? Surprisingly enough, transliteration is used in the same settings as signed-language interpretation; where and how is transliterating used?
 ---
 
 ## Practical applications of transliterated work product

@@ -1,24 +1,25 @@
 ---
 title: Course Assignments
-course: (ASL3370) Sign to Spoken English
+course: Sign to Spoken English (ASL3370)
 tags: [ASL3370, ASL, English, Assignments]
 style: 
 color: 
-description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
+description: Among other self-reflective assessments you’ll make this semester, based on expected learning outcomes, there are three main tactical categories of learning and assignment goals:
 ---
 
 {% include not-teaching.html %}
 
-# Learning & Assignment Goals
-Among other self-reflective assessments you’ll make this semester, based on expected learning outcomes, there are three main tactical categories of assignments:
+Among other self-reflective assessments you’ll make this semester, based on expected learning outcomes, there are three main tactical categories of **learning and assignment goals**:
 
 ## Language and interpretation production
+
 Arguably, the most important technical task new interpreters can practice is the production of interpretation. The process of interpreting has to become familiar in order for it to improve and become more efficacious. So you’ll be doing lots of language. Lots.
 1. In-class participation, presentations, and producing interpreting work. Interpreting necessitates 1) feeling comfortable in front of a group and 2) learning how to create equivalent renderings of topics. Participation in in-class interpreting assignments, exercises, and feedback sessions is, needless to say, <mark>mandatory</mark>.
 2. In-class presentations. While we will be spending time in developing signed language comprehension, our work together this semester will be primarily focused in advancing spoken language mastery. Following presentation criteria which we’ll determine in class, choose any topic and be prepared (impromptu) to give [TED Talks-like](http://www.ted.com) presentations for your classmates. Schedule to be determined in class; dates marked in blue.
 3. Creation of a video portfolio. This is a 3:3:1 course; in other words, you get three credits in exchange for three weekly hours of coursework and one hour of lab work. Patrie’s Effective Interpreting Series is formatted as a workbook, perfect for capturing language lab self- and dyad-paced efforts. This semester you’ll be producing five interpretations from the Effective Interpreting Series text and then posting them (with/for commentary) in your GoREACT account. This exercise benefits in two ways: 1) you’re producing work and 2) you get helpful formative commentary on your work. Scary? Maybe. But super helpful. Did I mention you’re producing work? See the [class schedule](http://) for posting dates identified in green.
 
 ## Critical reading and thinking
+
 An imperative skillset to be developing at this point in your career is becoming familiar with relevant literature, learning how to observe the interpreting environment, and then articulating those observations. You’ll have assignments that provide formative opportunities for these skills.
 
 {% include note-submit-pdf.html %}
@@ -28,6 +29,7 @@ An imperative skillset to be developing at this point in your career is becoming
 3. Assessments. There will be two performance (interpreted) assessments this semester: an initial pre-assessment and an end-of-semester assessment. There’s only one of these, so unless there’s an exceptional reason, there is no makeup final exam. [See the class schedule](http://); dates marked in orange.
 
 ## Community exposure
+
 In order to become a contributing member of the professional community in which you’re about to join, you need to become familiar with...well, the professional community. You’ll have at least one opportunity (and more, if you like, for additional credit) to do that this semester.
 1. Based on the criteria described under “Community Experience Projects,” produce at least a paper containing your experience(s) on Canvas. In your (at least one-page-long) posting(s) discuss:
 	* Your thoughts during this interaction with people in relation to the interpreting field. Be honest. Be detailed. Were you surprised at what you learned? Did your feelings about interpreting change during this assignment? How? Why? Explain.
@@ -38,11 +40,13 @@ In order to become a contributing member of the professional community in which 
 3. Deaf Studies Today! service and involvement (when available). While this is not required, if you’re not yet on a planning or service committee for the Deaf Studies Today! conference, arrange your semester schedule so you can assist in this extraordinary opportunity to provide interpreting services in an international conference setting.
 
 ## Self Evaluations
+
 1. Student-teacher contract. Determine the parameters of a [contract between you and the instructor](http://) that will help determine the evaluation and measurement of your in-class performance this semester. What grade do you want? Why? Thoughtfully include what requirements, stipulations, and conditions you’ll need to satisfy in order to warrant the grade you want to earn from this class. Additionally, explain what you feel the instructor can do/should do to enable your best performance. [See the class schedule](http://); this contract is worth ten points. Late submissions will not be accepted.
 2. Midterm Evaluation. About halfway through the semester, [it’ll be time for a kumbaya of sorts](http://), let the instructor know how you’re doing— “great,” “bored,” “frustrated”: get it out. It’ll be anonymous of course, but it will help you and the instructor do any course correcting if needed. Watch [the class schedule](http://) for this; this evaluation is worth an easy-peasy ten points. Late submissions will not be accepted.
 3. Final Evaluation. After the final exam, you’ll have a quick final evaluation that will help me understand how you prepared for the exam as well as answer any final concerns or comments about your experience. While it isn’t graded, it helps me understand if what we practiced was helpful or not. It also helps future classes get the benefit of things in class that you liked or didn’t like.
 
 ## Due Dates and Missing Exams/Classes
+
 Please adhere to all due dates on your class schedule. Exams are given only on the pre-assigned day. Except for extremely exceptional instances, a make-up exam will not be available. Giving a make-up exam is unfair to those students who have made the effort to complete the exam on time.
 
 Work schedules, out-of-town trips, or dating habits are not valid excuses for missing exams. If you must miss an assignment, please see me before the exam day to discuss your conflict. Final exams cannot be given early or on any other date than what is proscribed by the College. Please don’t ask.
@@ -51,21 +55,22 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 
 {% include grade-breakdown.html %}
 
-| Assignment | Points |
+| Assignment | Points :|
 |----------|----------|
-| Student-teacher contract | 10 points |
-| In-class participation | 150 points |
-| Annotated bibliography | 50 points |
-| Video portfolio postings | 50 points<br><small>(5 posts; 10 points each)</small> |
-| In-class presentation | 10 points |
-| Midterm evaluation | 10 points |
-| Community experience | 50 points |
-| Performance assessments | 200 points<br><small>(2 assessments, 100 points each)</small> |
-| Total* | 540 points |
+| Student-teacher contract | 10 points :|
+| In-class participation | 150 points :|
+| Annotated bibliography | 50 points :|
+| Video portfolio postings | 50 points<br><small>(5 posts; 10 points each)</small> :|
+| In-class presentation | 10 points :|
+| Midterm evaluation | 10 points :|
+| Community experience | 50 points :|
+| Performance assessments | 200 points<br><small>(2 assessments, 100 points each)</small> :|
+| Total* | 540 points :|
 
 <small>* This may or may not be the final total; scores from impromptu exercises and extra credit assignments will proportionally be figured into your final grade.</small>
 
-## Community Experience Project(s)
+### Community Experience Project(s)
+
 You want me to do what? For these assignments, you should seek out Deaf Community- or interpreter-related activities. Your best resource is the main gathering place for most of the Deaf and interpreting community in Weber, Salt Lake, and Utah Counties, the [Sanderson Community Center of the Deaf](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5709+South+1500+West,+Salt+Lake+City,+UT&sll=40.647788,-111.933888&sspn=0.355826,0.529404&ie=UTF8&hq=&hnear=5709+S+1500+W,+Salt+Lake+City,+Salt+Lake,+Utah+84123&ll=40.64758,-111.933882&spn=0.01112,0.016544&z=16) in Taylorsville. There are activities constantly taking place here, ranging from athletics to political meetings to [interpreting workshops](http://). [Check the Center](https://jobs.utah.gov/usor/dhh) for:
 
 1. a current list of activities, and

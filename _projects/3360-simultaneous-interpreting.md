@@ -11,9 +11,7 @@ weight: 8
 
 {% include class-nav.html %}
 
-![](http://c1.staticflickr.com/8/7599/16835096096_93130cb5ce_c.jpg)
-
-http://c1.staticflickr.com/8/7599/16835096096_93130cb5ce_c.jpg
+{% include figure.html image="http://c1.staticflickr.com/8/7599/16835096096_93130cb5ce_c.jpg" alt="image from behind a deaf participant looking at an interpreter during a TED talk; speaker on the stage behind the interpreter" caption="http://c1.staticflickr.com/8/7599/16835096096_93130cb5ce_c.jpg" %}
 
 {% include not-teaching.html %}
 

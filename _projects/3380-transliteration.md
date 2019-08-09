@@ -12,9 +12,7 @@ weight: 2
 
 {% include class-nav.html %}
 
-![](http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg)
-
-http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg
+{% include figure.html image="http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg" alt="point of view from an interpreter looking at a deaf student while signing a lecture in a classroom" caption="http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg" %}
 
 {% include not-teaching.html %}
 

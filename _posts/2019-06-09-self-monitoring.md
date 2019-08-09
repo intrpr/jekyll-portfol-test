@@ -1,10 +1,10 @@
 ---
 title: Self monitoring
 course:
-tags: [ASL3370, ASL, English, listening]
+tags: [ASL3350, ASL, English, self monitoring, cognitive mapping]
 style: 
 color: 
-description: 
+description: Wrapping up our discussions on interpretation production, self-monitoring focuses on arguably the hardest of the discourse mapping skills, monitoring one’s own work production. What skills and factors must successful interpreters monitor while working?
 ---
 
 ## h2
@@ -17,5 +17,6 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
+<p class="h4">Textbook chapters</p>
 ### Consecutive Interpreting from English (Patrie)
 Unit 7 (pp. 155–175) <span class="badge badge-pill badge-danger">Required</span>

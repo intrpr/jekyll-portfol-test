@@ -1,10 +1,10 @@
 ---
 title: What is transliteration?
-course: (ASL3370) Transliteration
-tags: [ASL3370, ASL, English, listening]
+course: Transliteration (ASL3380)
+tags: [ASL3380, ASL, English, transliteration, definition]
 style: 
 color: 
-description: 
+description: In order to become better practitioners of transliteration, we need to 1) better understand what it is and what it is not and 2) discuss differences and similarities in the process, product, skills and abilities, and application of transliterating work.
 ---
 
 ## Defining something that has historically resisted definition

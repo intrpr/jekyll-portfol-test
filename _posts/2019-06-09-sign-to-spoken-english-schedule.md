@@ -1,16 +1,15 @@
 ---
 title: Course Schedule
-course: (ASL3370) Sign to Spoken English
-tags: [ASL3370, ASL, English, Assignments]
+course: Sign to Spoken English (ASL3370)
+tags: [ASL3370, ASL, English, schedule]
 style: 
 color: 
-description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
+description:
 ---
 
 {% include not-teaching.html %}
 
 (This schedule is subject to frequent changes and updates; please check back often.)
-
 
 ## [Contexting interpretive ‘work’ and de-personalizing feedback](http://)
 

@@ -12,9 +12,7 @@ weight: 1
 
 {% include class-nav.html %}
 
-![](https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg)
-
-https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg
+{% include figure.html image="https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg" alt="deaf older female teacher signing to a classroom in front of a green-colored blackboard" caption="https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg" %}
 
 {% include not-teaching.html %}
 

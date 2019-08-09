@@ -1,6 +1,6 @@
 ---
 title: Writing
-course: (ASL3370) Sign to Spoken English
+course: Sign to Spoken English (ASL3370)
 tags: [ASL3370, ASL, English, writing]
 style: 
 color: 
@@ -10,11 +10,18 @@ description: You'll have one or two writing assignments this semester. You shoul
 {% include not-teaching.html %}
 
 ## Expectations and Requirements
+
 The [RID Code of Professional Conduct](http://) encourages interpreters to engage in professional development, including familiarity and reading of current literature in the field. Interpreters must not only understand the communication needs of Deaf people but also the core issues that face the field today. Annotated bibliographies provide you with opportunities to research and compile lists of academic texts for your own continued study.
 
 Annotated bibliographies are simply an organized list of sources (books, journals, newspapers, magazines, Web pages, etc.,) with an annotation or description of each source, and are written to be informative, indicative, evaluative, or all three.
 
+## Annotated Bibliography Topic(s)
+Check [class schedule for due dates](http://).
+
+Choose an interpreting-related principle or concept that either interests you (read: “I’d like to know more about this...”) or something that has come up over the course of the semester.
+
 ## Evaluation Criteria
+
 Please note: The points breakdown below isn’t just an arbitrary explanation of requirements; you’ll be held to these scoring standards. If you want to earn a 75 on a bibliography, you really need to show it.
 
 | 68-75 points: | Two (or more) full pages of unique yet highly-related references; all formatting, content, and mechanical specifications met or exceeded; excellent and insightful original annotations |
@@ -23,6 +30,7 @@ Please note: The points breakdown below isn’t just an arbitrary explanation of
 | 45-51 points: | One to one-and-a-half pages of generic and/or unrelated references; most formatting, content, and mechanical specifications not met; annotations are non-original reference summaries  |
 
 ## FAQs
+
 Every semester, students say or ask:
 
 ### “There aren’t enough books or references.”
@@ -47,11 +55,6 @@ Put it this way: partially completing the assignment will earn you partial credi
 
 With respect, no. A large part of doing research is properly documenting your findings. To make this easier, there are standards in place; use the APA referencing and works cited style — standard for writing about the social sciences and humanities — and stick with it. Be consistent. Determine how APA style typographically treats and references various types of sources. Listed at right are Internet sources which explain how to document your findings.
 
-## Annotated Bibliography Topic(s)
-Check [class schedule for due dates](http://).
-
-Choose an interpreting-related principle or concept that either interests you (read: “I’d like to know more about this...”) or something that has come up over the course of the semester.
-
 ## Specifications
 
 {% include note-submit-pdf.html %}
@@ -74,11 +77,13 @@ Your bibliographies must:
 * compile as many sources as will fit on the two pages; each annotation should be approximately five to six lines in length (you may not use previous ASL class texts nor more than one Internet reference)
 
 ### Content
+
 Common problems:
 * Avoid analysis that is obvious and superficial, rather than original, personal, and in-depth. Relate your feelings and reactions in an academic way; statements like “I think this article is just so cool” or “This lady’s Web site is just awesome!” are filler and do not represent a true, academic perspective.
 * Use credible, factual sources. Books, journals, and periodicals are among the most reliable references. While the Internet is easy to search and may contain a number of seemingly good articles or sources, beware the anonymity and undocumented nature of the Internet.
 
 ### Internet Resources
+
 <span class="badge badge-pill badge-info">Tip</span> View a sample annotated bibliography for comparison.
 
 Writing an Annotated bibliography:
@@ -93,6 +98,7 @@ APA citation styles:
 * http://linguistics.byu.edu/faculty/henrichsenl/apa/apa01.html
 
 ### Mechanics
+
 Having trouble with putting words and sentences together? The [Hemingway Editor is a solid helpful tool](http://www.hemingwayapp.com). Here are some fairly common problems to watch for in your paper:
 
 * Awkward sentence structures. Avoid fragments and run-on sentences. “The Hartford school helped refine ASL. And standardize it too.” is a fragment.
