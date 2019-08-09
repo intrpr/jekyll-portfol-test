@@ -1,6 +1,6 @@
 ---
 title: Attending and listening
-course: (ASL3370) Sign to Spoken English
+course: 
 tags: [ASL3350, ASL3370, ASL, English, attending, listening]
 style: 
 color: 

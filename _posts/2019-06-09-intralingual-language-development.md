@@ -1,10 +1,10 @@
 ---
 title: Interlingual language development
 course:
-tags: [ASL3370, ASL, English, listening]
+tags: [ASL3350, ASL3360, ASL3370, ASL3380, ASL, English, language, interlingual]
 style: 
 color: 
-description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
+description: Not only is having an expert command of spoken English and signed-language skills requisite to producing transliterated work, connecting these abilities for simultaneous production is also fundamental.
 ---
 
 {% include not-teaching.html %}

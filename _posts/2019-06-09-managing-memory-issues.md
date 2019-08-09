@@ -1,7 +1,7 @@
 ---
 title: Managing memory issues in an interpretation
-course: (ASL3370) Sign to Spoken English
-tags: [ASL3370, ASL, English, listening]
+course:
+tags: [ASL3350, ASL3360, ASL3370, ASL, English, memory, cognitive]
 style: 
 color: 
 description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
@@ -21,7 +21,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
-#### How do I learn?
+<p class="h4">How do I learn?</p>
 
 ### [VARK Questionnaire](http://www.vark-learn.com/english/page.asp?p=questionnaire)
 Take this learning preferences style assessment to see where your learning tendencies might be focused. <span class="badge badge-pill badge-danger">Required</span>
@@ -77,7 +77,7 @@ Games, exercises, and training to improve brain health and performance. (First f
 [Lumosity](https://www.lumosity.com/en/)
 [Memorado](https://memorado.com/)
 
-#### Cognitive Load Theory
+<p class="h4">Cognitive Load Theory</p>
 
 ### [Cognitive Load Theory (CLT)](http://en.wikipedia.org/wiki/Cognitive_load)
 CLT has roots in work by instructional psychologists [Miller](https://www.instructionaldesign.org/theories/information-processing/) (1956; concept of 7±2;) and Simon & Chase (1973; “chunking”) and is the subject of a large body of study by [John Sweller](https://www.instructionaldesign.org/theories/cognitive-load/) (1988, 1998, 1999, 2001, 2002, et al) at the University of New South Wales. Sweller’s work primarily deals with the amount of information/cognition that is transmitted in instruction (SL interpreters as ‘instructors’ anyone?) but the findings are clearly germane to SL interpreters and their work. <span class="badge badge-pill badge-danger">Required</span>

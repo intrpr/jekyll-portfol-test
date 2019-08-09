@@ -1,10 +1,10 @@
 ---
 title: Contexting interpretive ‘work’ and depersonalizing feedback
 course:
-tags: [ASL3370, ASL, English, listening]
+tags: [ASL3350, ASL3360, ASL3370, ASL3380, ASL, English, interpreting, work, feedback, depersonalization]
 style: 
 color: 
-description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
+description: Discussing interpretation work is a scientific process, concerned with gathering data and scrutinizing equivalency of message from source to target, not adjectival commentary on an interpretation’s ‘goodness’ or ‘badness.’
 ---
 
 ## Learning to talk about our work as a function of ‘work,’ not of ‘me’
@@ -21,13 +21,13 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
-#### Textbook chapters
+<p class="h4">Textbook chapters</p>
 ### Transliterating: Show Me The English (Kelly)
 Chapter 11 (pp. 93–100)
 
 ***
 
-#### Talking about what we talk about
+<p class="h4">Talking about what we talk about</p>
 ### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://)
 This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. <span class="badge badge-pill badge-danger">Required</span>
 
@@ -50,14 +50,14 @@ Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article corr
 ### [How to Turn Disagreement Into a Team Strength](https://blog.doist.com/how-to-turn-disagreement-into-a-team-strength-7bb25fec25f)
 Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce. <span class="badge badge-pill badge-success">Highly Recommended</span>
 
-#### Measuring work with rubrics
+<p class="h4">Measuring work with rubrics</p>
 ### [Transliteration Equivalency Rubric](http://)
 This is a transliteration performance rubric based on twelve skill categories. Your pre-assessment assignment will be rated on these skills. Let’s use this rubric as part of our discussion.
 
 ### [EIPA Skills Rating Rubric](http://)
 This is EIPA’s rating form (20XX) used to measure equivalency and accuracy on EIPA performance assessements. Let’s also use this rubric as part of our discussion.
 
-#### The Demand Control Schema for Interpreting Work (DC-S)
+<p class="h4">The Demand Control Schema for Interpreting Work (DC-S)</p>
 While we won’t be directly referencing DC-S in this discussion about evaluation language, clearly any discussion about evaluation of our work is informed and benefitted by understanding how decision-making processes impacts our interpreting choices.
 
 ### [The Demand Control Schema for Interpreting Work (DC-S)](http://www.urmc.rochester.edu/deaf-wellness-center/demand-control-schema/overview.cfm)

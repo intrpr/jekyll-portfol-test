@@ -1,7 +1,7 @@
 ---
 title: Manual codes for English (MCEs)
-course: 
-tags: [ASL3370, ASL, English, listening]
+course: Transliteration (ASL3380)
+tags: [ASL3380, ASL3310, ASL, English, transliteration, continuum, MCE]
 style: 
 color: 
 description:
@@ -19,7 +19,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
-#### Textbook chapters
+<p class="h4">Textbook chapters</p>
 ### Transliterating: Show Me The English (Kelly)
 Chapter 1 (pp. 4–6) <span class="badge badge-pill badge-danger">Required</span>
 
@@ -27,7 +27,7 @@ Chapter 1 (pp. 4–6) <span class="badge badge-pill badge-danger">Required</span
 A comparative language continuum demonstrating the overlapping relationship of American Sign Language and English which result in contact sign and manually coded English (MCE) forms and approaches (PSE, CASE, SSS, SimCom, TC, etc.). Identifies and briefly describes the most commonly known and/or used languages and MCE forms and approaches. <span class="badge badge-pill badge-danger">Required</span>
 
 ### [Code choices and consequences: Implications for educational interpreting](http://)
-(pp. 123–131) Discusses implications and impacts of MCE use on educational participants and consumers. Davis, J. (2005). Code choices and consequences: Implications for educational interpreting. In M. Marschark, R. Peterson, and E. Winston (eds.) Sign language: Interpreting and Interpreter Education — Directions for Research and Practice. New York: Oxford University Press.
+(pp. 123–131) Discusses implications and impacts of MCE use on educational participants and consumers. Davis, J. (2005). Code choices and consequences: Implications for educational interpreting. In M. Marschark, R. Peterson, and E. Winston (eds.) *Sign language: Interpreting and Interpreter Education — Directions for Research and Practice*. New York: Oxford University Press.
 
 ***
 

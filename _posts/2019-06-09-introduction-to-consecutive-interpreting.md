@@ -1,10 +1,10 @@
 ---
 title: An introduction to consecutive interpreting
-course: (ASL3370) Sign to Spoken English
-tags: [ASL3370, ASL, English, listening]
+course: Consecutive Interpreting (ASL3350)
+tags: [ASL3350, ASL, English, consecutive interpreting]
 style: 
 color: 
-description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
+description: 
 ---
 
 {% include not-teaching.html %}
@@ -19,6 +19,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
+<p class="h4">Textbook chapters</p>
 ### Consecutive Interpreting from English (Patrie)
 Introduction & Terminology (pp. 11–20); Competencies (pp. 20–24); Models (pp. 25–28) <span class="badge badge-pill badge-danger">Required</span>
 

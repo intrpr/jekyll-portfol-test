@@ -25,7 +25,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
-#### Textbook chapters
+<p class="h4">Textbook chapters</p>
 ### Transliterating: Show Me The English (Kelly)
 Chapter 1 (pp. 1–4) <span class="badge badge-pill badge-danger">Required</span>
 

@@ -1,7 +1,7 @@
 ---
-title: Giving a public presentation
-course: (ASL3370) Sign to Spoken English
-tags: [ASL3370, ASL, English, listening]
+title: Giving a spoken public presentation
+course: Sign to Spoken English (ASL3370)
+tags: [ASL3370, ASL, English, public speaking]
 style: 
 color: 
 description: Intepreting is a public activity; it’s done in the company of others. So we can prepare to stand up and bare our proverbial souls to one another in class, we’ll spend some time getting used to perfoming in a public manner.

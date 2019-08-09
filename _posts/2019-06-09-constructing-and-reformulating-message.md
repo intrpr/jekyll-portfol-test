@@ -1,7 +1,7 @@
 ---
 title: Constructing and reformulation of message parts in an interpretation
-course: (ASL3370) Sign to Spoken English
-tags: [ASL3370, ASL, English, listening]
+course: 
+tags: [ASL3350, ASL3370, ASL, English, construction, reformtulation, message, interpretation]
 style: 
 color: 
 description:

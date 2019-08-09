@@ -7,7 +7,7 @@ color:
 description: Wrapping up our discussions on interpretation production, self-monitoring focuses on arguably the hardest of the discourse mapping skills, monitoring one’s own work production. What skills and factors must successful interpreters monitor while working?
 ---
 
-## h2
+## Observing do we know what we’re doing — while we’re doing it
 
 <p class="lead">Wrapping up our discussions on interpretation production, self-monitoring focuses on arguably the hardest of the discourse mapping skills, monitoring one’s own work production. What skills and factors must successful interpreters monitor while working?</p>
 

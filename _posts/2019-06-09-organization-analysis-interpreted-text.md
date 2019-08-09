@@ -1,13 +1,13 @@
 ---
 title: Organization and analysis of an interpreted text
 course:
-tags: [ASL3370, ASL, English, listening]
+tags: [ASL3350, ASL3370, ASL, English, interpretation, organization, analysis]
 style: 
 color: 
-description: This course is an introduction to the skills and processes required to produce conceptually accurate and linguistically appropriate spoken-language interpretations of ASL texts.
+description: Cognitive organization of a text can help interpreters mentally plan out and know where the intent of a text or discourse is going..
 ---
 
-## h2
+## “Ninety percent of the game is mental. The other half is physical.” (Yogi Berra) Visualizing a text is just as important as interpreting it.
 
 <p class="lead">
 “Which road do I take?,” Alice asked.<br>
@@ -26,10 +26,14 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * What skills are required for me to predict a text?
 * Are there word choices that we can make to help with predicting and interpreting texts?
 
-<p class="h6">Readings/Discussions</p>
+Readings/Discussions
+
+<p class="h4">Textbook chapters</p>
+### Consecutive Interpreting from English (Patrie)
+Unit 4 (pp. 95–115) <span class="badge badge-pill badge-danger">Required</span>
 
 ### [Content Mapping (Witter-Merithew)](http://www.unco.edu/doit/resources/publication_pdfs/Content%20Mapping.pdf)
-This excellent article explains a cognitive exercise called content mapping, which can be used to visualize a text. <span class="badge badge-pill badge-danger">Required</span>
+This excellent article explains a cognitive exercise called content mapping, which can be used to visualize a text.
 
 ### [Topic Maps: From Information to Discourse Architecture](http://)
 A non-SL interpreting related and slightly more academic discussion of information as “discourse architecture.” From the literature in information architecture, ‘topic maps’ visually demonstrate cohesion and the semantic organization of topics. Discourse architecture is a helpful framework for organizing interpreted texts. (Citation: Johnsen, L. (2010). Topic Maps: From Information to Discourse Architecture. *Journal of Information Architecture.* 2(1). Retrieved from [http://journalofia.org/volume2/issue1/02-johnsen](http://journalofia.org/volume2/issue1/02-johnsen).) <span class="badge badge-pill badge-danger">Required</span>

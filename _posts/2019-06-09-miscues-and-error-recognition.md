@@ -1,7 +1,7 @@
 ---
 title: Miscues and error recognition in interpreting
-course: (ASL3370) Sign to Spoken English
-tags: [ASL3370, ASL, English, listening]
+course:
+tags: [ASL3350, ASL, English, listening]
 style: 
 color: 
 description:
@@ -19,6 +19,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 Readings/Discussions
 
+<p class="h4">Textbook chapters</p>
 ### Consecutive Interpreting from English (Patrie)
 Unit 2 (pp. 43–69) <span class="badge badge-pill badge-danger">Required</span>
 
