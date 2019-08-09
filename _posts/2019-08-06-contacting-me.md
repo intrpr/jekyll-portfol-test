@@ -6,8 +6,6 @@ color:
 description:
 ---
 
-## Contacting Me
-
 Because I don’t have office hours, you may contact me at any time via e-mail or by arranging a meeting time before or after class, or try one of these methods:
 
 * dstringham (at) gmail.com (also Google Hangouts and FaceTime)
